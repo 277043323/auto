@@ -1,0 +1,4 @@
+default: pro
+pro: eduzone.codemao.cn
+staging: staging-eduzone.codemao.cn
+test: test-eduzone.codemao.cn

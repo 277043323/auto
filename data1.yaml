@@ -1,0 +1,887 @@
+- "<i><color=#CAB1DE>#Welcome to the world of Python</color></i>\n<i><color=#FFFFFF>codemao.<color=#FFBD45>move</color>()</color></i>\n\
+  <i><color=#FFFFFF>codemao.<color=#FFBD45>move</color>()</color></i>\n<i><color=#FFFFFF>codemao.<color=#FFBD45>move</color>()</color></i>\n\
+  <i><color=#FFFFFF>codemao.<color=#FFBD45>turnLeft</color>()</color></i>\n<i><color=#FFFFFF><color=#4BC7FF>for</color>\
+  \ __count <color=#4BC7FF>in</color> <color=#FF7A7A>range</color>(<color=#FFBD45>6</color>):</color></i>\n\
+  \    <i><color=#FFFFFF>codemao.<color=#FFBD45>move</color>()</color></i>\n<i><color=#FFFFFF>codemao.<color=#FFBD45>turnLeft</color>()</color></i>\n\
+  <i><color=#FFFFFF>codemao.<color=#FFBD45>move</color>()</color></i>\n<i><color=#FFFFFF>codemao.<color=#FFBD45>move</color>()</color></i>\n\
+  <i><color=#FFFFFF>codemao.<color=#FFBD45>move</color>()</color></i>\n"
+- "<i><color=#CAB1DE>#Welcome to the world of Python</color></i>\n<i><color=#FFFFFF><color=#4BC7FF>for</color>\
+  \ __count <color=#4BC7FF>in</color> <color=#FF7A7A>range</color>(<color=#FFBD45>2</color>):</color></i>\n\
+  \    <i><color=#FFFFFF><color=#4BC7FF>for</color> __count <color=#4BC7FF>in</color>\
+  \ <color=#FF7A7A>range</color>(<color=#FFBD45>3</color>):</color></i>\n        <i><color=#FFFFFF>codemao.<color=#FFBD45>move</color>()</color></i>\n\
+  \    <i><color=#FFFFFF>codemao.<color=#FFBD45>turnRight</color>()</color></i>\n\
+  <i><color=#FFFFFF>codemao.<color=#FFBD45>turnRight</color>()</color></i>\n<i><color=#FFFFFF>codemao.<color=#FFBD45>move</color>()</color></i>\n\
+  <i><color=#FFFFFF><color=#4BC7FF>for</color> __count <color=#4BC7FF>in</color> <color=#FF7A7A>range</color>(<color=#FFBD45>3</color>):</color></i>\n\
+  \    <i><color=#FFFFFF>codemao.<color=#FFBD45>turnRight</color>()</color></i>\n\
+  \    <i><color=#FFFFFF><color=#4BC7FF>for</color> __count <color=#4BC7FF>in</color>\
+  \ <color=#FF7A7A>range</color>(<color=#FFBD45>8</color>):</color></i>\n        <i><color=#FFFFFF>codemao.<color=#FFBD45>move</color>()</color></i>\n"
+- "<i><color=#CAB1DE>#Welcome to the world of Python</color></i>\n<i><color=#FFFFFF><color=#4BC7FF>for</color>\
+  \ __count <color=#4BC7FF>in</color> <color=#FF7A7A>range</color>(<color=#FFBD45>3</color>):</color></i>\n\
+  \    <i><color=#FFFFFF><color=#4BC7FF>for</color> __count <color=#4BC7FF>in</color>\
+  \ <color=#FF7A7A>range</color>(<color=#FFBD45>3</color>):</color></i>\n        <i><color=#FFFFFF>codemao.<color=#FFBD45>move</color>()</color></i>\n\
+  \    <i><color=#FFFFFF>codemao.<color=#FFBD45>turnRight</color>()</color></i>\n\
+  <i><color=#FFFFFF>codemao.<color=#FFBD45>move</color>()</color></i>\n<i><color=#FFFFFF>codemao.<color=#FFBD45>turnRight</color>()</color></i>\n\
+  <i><color=#FFFFFF><color=#4BC7FF>for</color> __count <color=#4BC7FF>in</color> <color=#FF7A7A>range</color>(<color=#FFBD45>3</color>):</color></i>\n\
+  \    <i><color=#FFFFFF><color=#4BC7FF>for</color> __count <color=#4BC7FF>in</color>\
+  \ <color=#FF7A7A>range</color>(<color=#FFBD45>7</color>):</color></i>\n        <i><color=#FFFFFF>codemao.<color=#FFBD45>move</color>()</color></i>\n\
+  \    <i><color=#FFFFFF>codemao.<color=#FFBD45>turnRight</color>()</color></i>\n"
+- "<i><color=#CAB1DE>#Welcome to the world of Python</color></i>\n<i><color=#FFFFFF><color=#4BC7FF>for</color>\
+  \ __count <color=#4BC7FF>in</color> <color=#FF7A7A>range</color>(<color=#FFBD45>3</color>):</color></i>\n\
+  \    <i><color=#FFFFFF>codemao.<color=#FFBD45>move</color>()</color></i>\n<i><color=#FFFFFF>codemao.<color=#FFBD45>turnLeft</color>()</color></i>\n\
+  <i><color=#FFFFFF><color=#4BC7FF>for</color> __count <color=#4BC7FF>in</color> <color=#FF7A7A>range</color>(<color=#FFBD45>6</color>):</color></i>\n\
+  \    <i><color=#FFFFFF>codemao.<color=#FFBD45>move</color>()</color></i>\n<i><color=#FFFFFF>codemao.<color=#FFBD45>turnLeft</color>()</color></i>\n\
+  <i><color=#FFFFFF><color=#4BC7FF>for</color> __count <color=#4BC7FF>in</color> <color=#FF7A7A>range</color>(<color=#FFBD45>3</color>):</color></i>\n\
+  \    <i><color=#FFFFFF>codemao.<color=#FFBD45>move</color>()</color></i>\n"
+- '<i><color=#CAB1DE>#Welcome to the world of Python</color></i>
+
+  <i><color=#FFFFFF>codemao.<color=#FFBD45>move</color>()</color></i>
+
+  <i><color=#FFFFFF>codemao.<color=#FFBD45>move</color>()</color></i>
+
+  <i><color=#FFFFFF>codemao.<color=#FFBD45>move</color>()</color></i>
+
+  <i><color=#FFFFFF>codemao.<color=#FFBD45>turnRight</color>()</color></i>
+
+  <i><color=#FFFFFF>codemao.<color=#FFBD45>move</color>()</color></i>
+
+  <i><color=#FFFFFF>codemao.<color=#FFBD45>move</color>()</color></i>
+
+  <i><color=#FFFFFF>codemao.<color=#FFBD45>turnLeft</color>()</color></i>
+
+  <i><color=#FFFFFF>codemao.<color=#FFBD45>move</color>()</color></i>
+
+  <i><color=#FFFFFF>codemao.<color=#FFBD45>move</color>()</color></i>
+
+  <i><color=#FFFFFF>codemao.<color=#FFBD45>move</color>()</color></i>
+
+  <i><color=#FFFFFF>codemao.<color=#FFBD45>move</color>()</color></i>
+
+  <i><color=#FFFFFF>codemao.<color=#FFBD45>turnRight</color>()</color></i>
+
+  <i><color=#FFFFFF>codemao.<color=#FFBD45>move</color>()</color></i>
+
+  <i><color=#FFFFFF>codemao.<color=#FFBD45>move</color>()</color></i>
+
+  <i><color=#FFFFFF>codemao.<color=#FFBD45>turnRight</color>()</color></i>
+
+  <i><color=#FFFFFF>codemao.<color=#FFBD45>move</color>()</color></i>
+
+  <i><color=#FFFFFF>codemao.<color=#FFBD45>move</color>()</color></i>
+
+  <i><color=#FFFFFF>codemao.<color=#FFBD45>move</color>()</color></i>
+
+  <i><color=#FFFFFF>codemao.<color=#FFBD45>move</color>()</color></i>
+
+  <i><color=#FFFFFF>codemao.<color=#FFBD45>turnRight</color>()</color></i>
+
+  <i><color=#FFFFFF>codemao.<color=#FFBD45>move</color>()</color></i>
+
+  <i><color=#FFFFFF>codemao.<color=#FFBD45>turnLeft</color>()</color></i>
+
+  <i><color=#FFFFFF>codemao.<color=#FFBD45>turnLeft</color>()</color></i>
+
+  <i><color=#FFFFFF>codemao.<color=#FFBD45>move</color>()</color></i>
+
+  <i><color=#FFFFFF>codemao.<color=#FFBD45>turnRight</color>()</color></i>
+
+  <i><color=#FFFFFF>codemao.<color=#FFBD45>move</color>()</color></i>
+
+  <i><color=#FFFFFF>codemao.<color=#FFBD45>move</color>()</color></i>
+
+  <i><color=#FFFFFF>codemao.<color=#FFBD45>move</color>()</color></i>
+
+  '
+- "<i><color=#CAB1DE>#Welcome to the world of Python</color></i>\n<i><color=#FFFFFF>codemao.<color=#FFBD45>move</color>()</color></i>\n\
+  <i><color=#FFFFFF>codemao.<color=#FFBD45>move</color>()</color></i>\n<i><color=#FFFFFF>codemao.<color=#FFBD45>turnRight</color>()</color></i>\n\
+  <i><color=#FFFFFF>codemao.<color=#FFBD45>move</color>()</color></i>\n<i><color=#FFFFFF>codemao.<color=#FFBD45>turnRight</color>()</color></i>\n\
+  <i><color=#FFFFFF>codemao.<color=#FFBD45>turnRight</color>()</color></i>\n<i><color=#FFFFFF><color=#4BC7FF>for</color>\
+  \ __count <color=#4BC7FF>in</color> <color=#FF7A7A>range</color>(<color=#FFBD45>2</color>):</color></i>\n\
+  \    <i><color=#FFFFFF>codemao.<color=#FFBD45>move</color>()</color></i>\n"
+- "<i><color=#CAB1DE>#Welcome to the world of Python</color></i>\n<i><color=#FFFFFF><color=#4BC7FF>for</color>\
+  \ __count <color=#4BC7FF>in</color> <color=#FF7A7A>range</color>(<color=#FFBD45>3</color>):</color></i>\n\
+  \    <i><color=#FFFFFF>codemao.<color=#FFBD45>move</color>()</color></i>\n<i><color=#FFFFFF>codemao.<color=#FFBD45>turnLeft</color>()</color></i>\n\
+  <i><color=#FFFFFF><color=#4BC7FF>for</color> __count <color=#4BC7FF>in</color> <color=#FF7A7A>range</color>(<color=#FFBD45>6</color>):</color></i>\n\
+  \    <i><color=#FFFFFF>codemao.<color=#FFBD45>move</color>()</color></i>\n<i><color=#FFFFFF>codemao.<color=#FFBD45>turnLeft</color>()</color></i>\n\
+  <i><color=#FFFFFF><color=#4BC7FF>for</color> __count <color=#4BC7FF>in</color> <color=#FF7A7A>range</color>(<color=#FFBD45>3</color>):</color></i>\n\
+  \    <i><color=#FFFFFF>codemao.<color=#FFBD45>move</color>()</color></i>\n"
+- "<i><color=#CAB1DE>#Welcome to the world of Python</color></i>\n<i><color=#FFFFFF><color=#4BC7FF>for</color>\
+  \ __count <color=#4BC7FF>in</color> <color=#FF7A7A>range</color>(<color=#FFBD45>3</color>):</color></i>\n\
+  \    <i><color=#FFFFFF>codemao.<color=#FFBD45>move</color>()</color></i>\n<i><color=#FFFFFF>codemao.<color=#FFBD45>turnLeft</color>()</color></i>\n\
+  <i><color=#FFFFFF><color=#4BC7FF>for</color> __count <color=#4BC7FF>in</color> <color=#FF7A7A>range</color>(<color=#FFBD45>6</color>):</color></i>\n\
+  \    <i><color=#FFFFFF>codemao.<color=#FFBD45>move</color>()</color></i>\n<i><color=#FFFFFF>codemao.<color=#FFBD45>turnLeft</color>()</color></i>\n\
+  <i><color=#FFFFFF><color=#4BC7FF>for</color> __count <color=#4BC7FF>in</color> <color=#FF7A7A>range</color>(<color=#FFBD45>3</color>):</color></i>\n\
+  \    <i><color=#FFFFFF>codemao.<color=#FFBD45>move</color>()</color></i>\n"
+- "<i><color=#CAB1DE>#Welcome to the world of Python</color></i>\n<i><color=#FFFFFF><color=#4BC7FF>for</color>\
+  \ __count <color=#4BC7FF>in</color> <color=#FF7A7A>range</color>(<color=#FFBD45>3</color>):</color></i>\n\
+  \    <i><color=#FFFFFF>codemao.<color=#FFBD45>move</color>()</color></i>\n<i><color=#FFFFFF>codemao.<color=#FFBD45>turnLeft</color>()</color></i>\n\
+  <i><color=#FFFFFF><color=#4BC7FF>for</color> __count <color=#4BC7FF>in</color> <color=#FF7A7A>range</color>(<color=#FFBD45>6</color>):</color></i>\n\
+  \    <i><color=#FFFFFF>codemao.<color=#FFBD45>move</color>()</color></i>\n<i><color=#FFFFFF>codemao.<color=#FFBD45>turnLeft</color>()</color></i>\n\
+  <i><color=#FFFFFF><color=#4BC7FF>for</color> __count <color=#4BC7FF>in</color> <color=#FF7A7A>range</color>(<color=#FFBD45>3</color>):</color></i>\n\
+  \    <i><color=#FFFFFF>codemao.<color=#FFBD45>move</color>()</color></i>\n"
+- "<i><color=#CAB1DE>#Welcome to the world of Python</color></i>\n<i><color=#FFFFFF><color=#4BC7FF>for</color>\
+  \ __count <color=#4BC7FF>in</color> <color=#FF7A7A>range</color>(<color=#FFBD45>3</color>):</color></i>\n\
+  \    <i><color=#FFFFFF>codemao.<color=#FFBD45>move</color>()</color></i>\n<i><color=#FFFFFF>codemao.<color=#FFBD45>turnLeft</color>()</color></i>\n\
+  <i><color=#FFFFFF><color=#4BC7FF>for</color> __count <color=#4BC7FF>in</color> <color=#FF7A7A>range</color>(<color=#FFBD45>6</color>):</color></i>\n\
+  \    <i><color=#FFFFFF>codemao.<color=#FFBD45>move</color>()</color></i>\n<i><color=#FFFFFF>codemao.<color=#FFBD45>turnLeft</color>()</color></i>\n\
+  <i><color=#FFFFFF><color=#4BC7FF>for</color> __count <color=#4BC7FF>in</color> <color=#FF7A7A>range</color>(<color=#FFBD45>3</color>):</color></i>\n\
+  \    <i><color=#FFFFFF>codemao.<color=#FFBD45>move</color>()</color></i>\n"
+- "<i><color=#CAB1DE>#Welcome to the world of Python</color></i>\n<i><color=#FFFFFF><color=#4BC7FF>for</color>\
+  \ __count <color=#4BC7FF>in</color> <color=#FF7A7A>range</color>(<color=#FFBD45>3</color>):</color></i>\n\
+  \    <i><color=#FFFFFF><color=#4BC7FF>for</color> __count <color=#4BC7FF>in</color>\
+  \ <color=#FF7A7A>range</color>(<color=#FFBD45>3</color>):</color></i>\n        <i><color=#FFFFFF>codemao.<color=#FFBD45>move</color>()</color></i>\n\
+  \    <i><color=#FFFFFF>codemao.<color=#FFBD45>turnRight</color>()</color></i>\n\
+  <i><color=#FFFFFF>codemao.<color=#FFBD45>move</color>()</color></i>\n<i><color=#FFFFFF>codemao.<color=#FFBD45>turnRight</color>()</color></i>\n\
+  <i><color=#FFFFFF><color=#4BC7FF>for</color> __count <color=#4BC7FF>in</color> <color=#FF7A7A>range</color>(<color=#FFBD45>3</color>):</color></i>\n\
+  \    <i><color=#FFFFFF><color=#4BC7FF>for</color> __count <color=#4BC7FF>in</color>\
+  \ <color=#FF7A7A>range</color>(<color=#FFBD45>7</color>):</color></i>\n        <i><color=#FFFFFF>codemao.<color=#FFBD45>move</color>()</color></i>\n\
+  \    <i><color=#FFFFFF>codemao.<color=#FFBD45>turnRight</color>()</color></i>\n"
+- "<i><color=#CAB1DE>#Welcome to the world of Python</color></i>\n<i><color=#FFFFFF><color=#4BC7FF>for</color>\
+  \ __count <color=#4BC7FF>in</color> <color=#FF7A7A>range</color>(<color=#FFBD45>3</color>):</color></i>\n\
+  \    <i><color=#FFFFFF>codemao.<color=#FFBD45>move</color>()</color></i>\n<i><color=#FFFFFF>codemao.<color=#FFBD45>turnLeft</color>()</color></i>\n\
+  <i><color=#FFFFFF><color=#4BC7FF>for</color> __count <color=#4BC7FF>in</color> <color=#FF7A7A>range</color>(<color=#FFBD45>6</color>):</color></i>\n\
+  \    <i><color=#FFFFFF>codemao.<color=#FFBD45>move</color>()</color></i>\n<i><color=#FFFFFF>codemao.<color=#FFBD45>turnLeft</color>()</color></i>\n\
+  <i><color=#FFFFFF><color=#4BC7FF>for</color> __count <color=#4BC7FF>in</color> <color=#FF7A7A>range</color>(<color=#FFBD45>3</color>):</color></i>\n\
+  \    <i><color=#FFFFFF>codemao.<color=#FFBD45>move</color>()</color></i>\n"
+- "<i><color=#CAB1DE>#Welcome to the world of Python</color></i>\n<i><color=#FFFFFF><color=#4BC7FF>for</color>\
+  \ __count <color=#4BC7FF>in</color> <color=#FF7A7A>range</color>(<color=#FFBD45>3</color>):</color></i>\n\
+  \    <i><color=#FFFFFF>codemao.<color=#FFBD45>move</color>()</color></i>\n<i><color=#FFFFFF>codemao.<color=#FFBD45>turnLeft</color>()</color></i>\n\
+  <i><color=#FFFFFF><color=#4BC7FF>for</color> __count <color=#4BC7FF>in</color> <color=#FF7A7A>range</color>(<color=#FFBD45>6</color>):</color></i>\n\
+  \    <i><color=#FFFFFF>codemao.<color=#FFBD45>move</color>()</color></i>\n<i><color=#FFFFFF>codemao.<color=#FFBD45>turnLeft</color>()</color></i>\n\
+  <i><color=#FFFFFF><color=#4BC7FF>for</color> __count <color=#4BC7FF>in</color> <color=#FF7A7A>range</color>(<color=#FFBD45>3</color>):</color></i>\n\
+  \    <i><color=#FFFFFF>codemao.<color=#FFBD45>move</color>()</color></i>\n"
+- '<i><color=#CAB1DE>#Welcome to the world of Python</color></i>
+
+  <i><color=#FFFFFF>codemao.<color=#FFBD45>move</color>()</color></i>
+
+  <i><color=#FFFFFF>codemao.<color=#FFBD45>move</color>()</color></i>
+
+  <i><color=#FFFFFF>codemao.<color=#FFBD45>turnLeft</color>()</color></i>
+
+  <i><color=#FFFFFF>codemao.<color=#FFBD45>move</color>()</color></i>
+
+  <i><color=#FFFFFF>codemao.<color=#FFBD45>move</color>()</color></i>
+
+  <i><color=#FFFFFF>codemao.<color=#FFBD45>turnLeft</color>()</color></i>
+
+  <i><color=#FFFFFF>codemao.<color=#FFBD45>move</color>()</color></i>
+
+  <i><color=#FFFFFF>codemao.<color=#FFBD45>move</color>()</color></i>
+
+  '
+- "<i><color=#CAB1DE>#Welcome to the world of Python</color></i>\n<i><color=#FFFFFF><color=#4BC7FF>for</color>\
+  \ __count <color=#4BC7FF>in</color> <color=#FF7A7A>range</color>(<color=#FFBD45>3</color>):</color></i>\n\
+  \    <i><color=#FFFFFF>codemao.<color=#FFBD45>move</color>()</color></i>\n<i><color=#FFFFFF>codemao.<color=#FFBD45>turnLeft</color>()</color></i>\n\
+  <i><color=#FFFFFF><color=#4BC7FF>for</color> __count <color=#4BC7FF>in</color> <color=#FF7A7A>range</color>(<color=#FFBD45>6</color>):</color></i>\n\
+  \    <i><color=#FFFFFF>codemao.<color=#FFBD45>move</color>()</color></i>\n<i><color=#FFFFFF>codemao.<color=#FFBD45>turnLeft</color>()</color></i>\n\
+  <i><color=#FFFFFF><color=#4BC7FF>for</color> __count <color=#4BC7FF>in</color> <color=#FF7A7A>range</color>(<color=#FFBD45>3</color>):</color></i>\n\
+  \    <i><color=#FFFFFF>codemao.<color=#FFBD45>move</color>()</color></i>\n"
+- "<i><color=#CAB1DE>#Welcome to the world of Python</color></i>\n<i><color=#FFFFFF><color=#4BC7FF>for</color>\
+  \ __count <color=#4BC7FF>in</color> <color=#FF7A7A>range</color>(<color=#FFBD45>3</color>):</color></i>\n\
+  \    <i><color=#FFFFFF>codemao.<color=#FFBD45>move</color>()</color></i>\n<i><color=#FFFFFF>codemao.<color=#FFBD45>turnLeft</color>()</color></i>\n\
+  <i><color=#FFFFFF><color=#4BC7FF>for</color> __count <color=#4BC7FF>in</color> <color=#FF7A7A>range</color>(<color=#FFBD45>6</color>):</color></i>\n\
+  \    <i><color=#FFFFFF>codemao.<color=#FFBD45>move</color>()</color></i>\n<i><color=#FFFFFF>codemao.<color=#FFBD45>turnLeft</color>()</color></i>\n\
+  <i><color=#FFFFFF><color=#4BC7FF>for</color> __count <color=#4BC7FF>in</color> <color=#FF7A7A>range</color>(<color=#FFBD45>3</color>):</color></i>\n\
+  \    <i><color=#FFFFFF>codemao.<color=#FFBD45>move</color>()</color></i>\n"
+- "<i><color=#CAB1DE>#Welcome to the world of Python</color></i>\n<i><color=#FFFFFF><color=#4BC7FF>for</color>\
+  \ __count <color=#4BC7FF>in</color> <color=#FF7A7A>range</color>(<color=#FFBD45>3</color>):</color></i>\n\
+  \    <i><color=#FFFFFF>codemao.<color=#FFBD45>move</color>()</color></i>\n<i><color=#FFFFFF>codemao.<color=#FFBD45>turnLeft</color>()</color></i>\n\
+  <i><color=#FFFFFF><color=#4BC7FF>for</color> __count <color=#4BC7FF>in</color> <color=#FF7A7A>range</color>(<color=#FFBD45>6</color>):</color></i>\n\
+  \    <i><color=#FFFFFF>codemao.<color=#FFBD45>move</color>()</color></i>\n<i><color=#FFFFFF>codemao.<color=#FFBD45>turnLeft</color>()</color></i>\n\
+  <i><color=#FFFFFF><color=#4BC7FF>for</color> __count <color=#4BC7FF>in</color> <color=#FF7A7A>range</color>(<color=#FFBD45>3</color>):</color></i>\n\
+  \    <i><color=#FFFFFF>codemao.<color=#FFBD45>move</color>()</color></i>\n"
+- "<i><color=#CAB1DE>#Welcome to the world of Python</color></i>\n<i><color=#FFFFFF><color=#4BC7FF>for</color>\
+  \ __count <color=#4BC7FF>in</color> <color=#FF7A7A>range</color>(<color=#FFBD45>3</color>):</color></i>\n\
+  \    <i><color=#FFFFFF>codemao.<color=#FFBD45>move</color>()</color></i>\n<i><color=#FFFFFF>codemao.<color=#FFBD45>turnLeft</color>()</color></i>\n\
+  <i><color=#FFFFFF><color=#4BC7FF>for</color> __count <color=#4BC7FF>in</color> <color=#FF7A7A>range</color>(<color=#FFBD45>6</color>):</color></i>\n\
+  \    <i><color=#FFFFFF>codemao.<color=#FFBD45>move</color>()</color></i>\n<i><color=#FFFFFF>codemao.<color=#FFBD45>turnLeft</color>()</color></i>\n\
+  <i><color=#FFFFFF><color=#4BC7FF>for</color> __count <color=#4BC7FF>in</color> <color=#FF7A7A>range</color>(<color=#FFBD45>3</color>):</color></i>\n\
+  \    <i><color=#FFFFFF>codemao.<color=#FFBD45>move</color>()</color></i>\n"
+- '<i><color=#CAB1DE>#Welcome to the world of Python</color></i>
+
+  <i><color=#FFFFFF>codemao.<color=#FFBD45>move</color>()</color></i>
+
+  <i><color=#FFFFFF>codemao.<color=#FFBD45>move</color>()</color></i>
+
+  <i><color=#FFFFFF>codemao.<color=#FFBD45>turnLeft</color>()</color></i>
+
+  <i><color=#FFFFFF>codemao.<color=#FFBD45>move</color>()</color></i>
+
+  <i><color=#FFFFFF>codemao.<color=#FFBD45>move</color>()</color></i>
+
+  '
+- "<i><color=#CAB1DE>#Welcome to the world of Python</color></i>\n<i><color=#FFFFFF><color=#4BC7FF>for</color>\
+  \ __count <color=#4BC7FF>in</color> <color=#FF7A7A>range</color>(<color=#FFBD45>3</color>):</color></i>\n\
+  \    <i><color=#FFFFFF>codemao.<color=#FFBD45>move</color>()</color></i>\n<i><color=#FFFFFF>codemao.<color=#FFBD45>turnLeft</color>()</color></i>\n\
+  <i><color=#FFFFFF><color=#4BC7FF>for</color> __count <color=#4BC7FF>in</color> <color=#FF7A7A>range</color>(<color=#FFBD45>6</color>):</color></i>\n\
+  \    <i><color=#FFFFFF>codemao.<color=#FFBD45>move</color>()</color></i>\n<i><color=#FFFFFF>codemao.<color=#FFBD45>turnLeft</color>()</color></i>\n\
+  <i><color=#FFFFFF>codemao.<color=#FFBD45>move</color>()</color></i>\n<i><color=#FFFFFF>codemao.<color=#FFBD45>move</color>()</color></i>\n\
+  <i><color=#FFFFFF>codemao.<color=#FFBD45>move</color>()</color></i>\n"
+- "<i><color=#CAB1DE>#Welcome to the world of Python</color></i>\n<i><color=#FFFFFF><color=#4BC7FF>for</color>\
+  \ __count <color=#4BC7FF>in</color> <color=#FF7A7A>range</color>(<color=#FFBD45>3</color>):</color></i>\n\
+  \    <i><color=#FFFFFF>codemao.<color=#FFBD45>move</color>()</color></i>\n<i><color=#FFFFFF>codemao.<color=#FFBD45>turnLeft</color>()</color></i>\n\
+  <i><color=#FFFFFF><color=#4BC7FF>for</color> __count <color=#4BC7FF>in</color> <color=#FF7A7A>range</color>(<color=#FFBD45>6</color>):</color></i>\n\
+  \    <i><color=#FFFFFF>codemao.<color=#FFBD45>move</color>()</color></i>\n<i><color=#FFFFFF>codemao.<color=#FFBD45>turnLeft</color>()</color></i>\n\
+  <i><color=#FFFFFF><color=#4BC7FF>for</color> __count <color=#4BC7FF>in</color> <color=#FF7A7A>range</color>(<color=#FFBD45>3</color>):</color></i>\n\
+  \    <i><color=#FFFFFF>codemao.<color=#FFBD45>move</color>()</color></i>\n"
+- "<i><color=#CAB1DE>#Welcome to the world of Python</color></i>\n<i><color=#FFFFFF><color=#4BC7FF>for</color>\
+  \ __count <color=#4BC7FF>in</color> <color=#FF7A7A>range</color>(<color=#FFBD45>3</color>):</color></i>\n\
+  \    <i><color=#FFFFFF>codemao.<color=#FFBD45>move</color>()</color></i>\n<i><color=#FFFFFF>codemao.<color=#FFBD45>turnLeft</color>()</color></i>\n\
+  <i><color=#FFFFFF><color=#4BC7FF>for</color> __count <color=#4BC7FF>in</color> <color=#FF7A7A>range</color>(<color=#FFBD45>6</color>):</color></i>\n\
+  \    <i><color=#FFFFFF>codemao.<color=#FFBD45>move</color>()</color></i>\n<i><color=#FFFFFF>codemao.<color=#FFBD45>turnLeft</color>()</color></i>\n\
+  <i><color=#FFFFFF><color=#4BC7FF>for</color> __count <color=#4BC7FF>in</color> <color=#FF7A7A>range</color>(<color=#FFBD45>3</color>):</color></i>\n\
+  \    <i><color=#FFFFFF>codemao.<color=#FFBD45>move</color>()</color></i>\n"
+- '<i><color=#CAB1DE>#Welcome to the world of Python</color></i>
+
+  <i><color=#FFFFFF>codemao.<color=#FFBD45>turnLeft</color>()</color></i>
+
+  <i><color=#FFFFFF>codemao.<color=#FFBD45>move</color>()</color></i>
+
+  <i><color=#FFFFFF>codemao.<color=#FFBD45>move</color>()</color></i>
+
+  '
+- "<i><color=#CAB1DE>#Welcome to the world of Python</color></i>\n<i><color=#FFFFFF><color=#4BC7FF>for</color>\
+  \ __count <color=#4BC7FF>in</color> <color=#FF7A7A>range</color>(<color=#FFBD45>4</color>):</color></i>\n\
+  \    <i><color=#FFFFFF>codemao.<color=#FFBD45>move</color>()</color></i>\n<i><color=#FFFFFF>codemao.<color=#FFBD45>turnLeft</color>()</color></i>\n\
+  <i><color=#FFFFFF><color=#4BC7FF>for</color> __count <color=#4BC7FF>in</color> <color=#FF7A7A>range</color>(<color=#FFBD45>4</color>):</color></i>\n\
+  \    <i><color=#FFFFFF>codemao.<color=#FFBD45>move</color>()</color></i>\n<i><color=#FFFFFF>codemao.<color=#FFBD45>turnLeft</color>()</color></i>\n\
+  <i><color=#FFFFFF><color=#4BC7FF>for</color> __count <color=#4BC7FF>in</color> <color=#FF7A7A>range</color>(<color=#FFBD45>4</color>):</color></i>\n\
+  \    <i><color=#FFFFFF>codemao.<color=#FFBD45>move</color>()</color></i>\n"
+- "<i><color=#CAB1DE>#Welcome to the world of Python</color></i>\n<i><color=#FFFFFF><color=#4BC7FF>for</color>\
+  \ __count <color=#4BC7FF>in</color> <color=#FF7A7A>range</color>(<color=#FFBD45>3</color>):</color></i>\n\
+  \    <i><color=#FFFFFF>codemao.<color=#FFBD45>move</color>()</color></i>\n<i><color=#FFFFFF>codemao.<color=#FFBD45>turnLeft</color>()</color></i>\n\
+  <i><color=#FFFFFF><color=#4BC7FF>for</color> __count <color=#4BC7FF>in</color> <color=#FF7A7A>range</color>(<color=#FFBD45>6</color>):</color></i>\n\
+  \    <i><color=#FFFFFF>codemao.<color=#FFBD45>move</color>()</color></i>\n<i><color=#FFFFFF>codemao.<color=#FFBD45>turnLeft</color>()</color></i>\n\
+  <i><color=#FFFFFF><color=#4BC7FF>for</color> __count <color=#4BC7FF>in</color> <color=#FF7A7A>range</color>(<color=#FFBD45>3</color>):</color></i>\n\
+  \    <i><color=#FFFFFF>codemao.<color=#FFBD45>move</color>()</color></i>\n"
+- "<i><color=#CAB1DE>#Welcome to the world of Python</color></i>\n<i><color=#FFFFFF><color=#4BC7FF>for</color>\
+  \ __count <color=#4BC7FF>in</color> <color=#FF7A7A>range</color>(<color=#FFBD45>3</color>):</color></i>\n\
+  \    <i><color=#FFFFFF>codemao.<color=#FFBD45>move</color>()</color></i>\n<i><color=#FFFFFF>codemao.<color=#FFBD45>turnLeft</color>()</color></i>\n\
+  <i><color=#FFFFFF><color=#4BC7FF>for</color> __count <color=#4BC7FF>in</color> <color=#FF7A7A>range</color>(<color=#FFBD45>6</color>):</color></i>\n\
+  \    <i><color=#FFFFFF>codemao.<color=#FFBD45>move</color>()</color></i>\n<i><color=#FFFFFF>codemao.<color=#FFBD45>turnLeft</color>()</color></i>\n\
+  <i><color=#FFFFFF><color=#4BC7FF>for</color> __count <color=#4BC7FF>in</color> <color=#FF7A7A>range</color>(<color=#FFBD45>3</color>):</color></i>\n\
+  \    <i><color=#FFFFFF>codemao.<color=#FFBD45>move</color>()</color></i>\n"
+- '<i><color=#CAB1DE>#Welcome to the world of Python</color></i>
+
+  <i><color=#FFFFFF>codemao.<color=#FFBD45>move</color>()</color></i>
+
+  <i><color=#FFFFFF>codemao.<color=#FFBD45>turnLeft</color>()</color></i>
+
+  <i><color=#FFFFFF>codemao.<color=#FFBD45>move</color>()</color></i>
+
+  <i><color=#FFFFFF>codemao.<color=#FFBD45>turnLeft</color>()</color></i>
+
+  <i><color=#FFFFFF>codemao.<color=#FFBD45>move</color>()</color></i>
+
+  '
+- "<i><color=#CAB1DE>#Welcome to the world of Python</color></i>\n<i><color=#FFFFFF><color=#4BC7FF>for</color>\
+  \ __count <color=#4BC7FF>in</color> <color=#FF7A7A>range</color>(<color=#FFBD45>3</color>):</color></i>\n\
+  \    <i><color=#FFFFFF>codemao.<color=#FFBD45>move</color>()</color></i>\n<i><color=#FFFFFF>codemao.<color=#FFBD45>turnLeft</color>()</color></i>\n\
+  <i><color=#FFFFFF><color=#4BC7FF>for</color> __count <color=#4BC7FF>in</color> <color=#FF7A7A>range</color>(<color=#FFBD45>6</color>):</color></i>\n\
+  \    <i><color=#FFFFFF>codemao.<color=#FFBD45>move</color>()</color></i>\n<i><color=#FFFFFF>codemao.<color=#FFBD45>turnLeft</color>()</color></i>\n\
+  <i><color=#FFFFFF><color=#4BC7FF>for</color> __count <color=#4BC7FF>in</color> <color=#FF7A7A>range</color>(<color=#FFBD45>3</color>):</color></i>\n\
+  \    <i><color=#FFFFFF>codemao.<color=#FFBD45>move</color>()</color></i>\n"
+- "<i><color=#CAB1DE>#Welcome to the world of Python</color></i>\n<i><color=#FFFFFF><color=#4BC7FF>for</color>\
+  \ __count <color=#4BC7FF>in</color> <color=#FF7A7A>range</color>(<color=#FFBD45>3</color>):</color></i>\n\
+  \    <i><color=#FFFFFF>codemao.<color=#FFBD45>move</color>()</color></i>\n<i><color=#FFFFFF>codemao.<color=#FFBD45>turnLeft</color>()</color></i>\n\
+  <i><color=#FFFFFF><color=#4BC7FF>for</color> __count <color=#4BC7FF>in</color> <color=#FF7A7A>range</color>(<color=#FFBD45>6</color>):</color></i>\n\
+  \    <i><color=#FFFFFF>codemao.<color=#FFBD45>move</color>()</color></i>\n<i><color=#FFFFFF>codemao.<color=#FFBD45>turnLeft</color>()</color></i>\n\
+  <i><color=#FFFFFF><color=#4BC7FF>for</color> __count <color=#4BC7FF>in</color> <color=#FF7A7A>range</color>(<color=#FFBD45>3</color>):</color></i>\n\
+  \    <i><color=#FFFFFF>codemao.<color=#FFBD45>move</color>()</color></i>\n"
+- "<i><color=#CAB1DE>#Welcome to the world of Python</color></i>\n<i><color=#FFFFFF><color=#4BC7FF>for</color>\
+  \ __count <color=#4BC7FF>in</color> <color=#FF7A7A>range</color>(<color=#FFBD45>3</color>):</color></i>\n\
+  \    <i><color=#FFFFFF>codemao.<color=#FFBD45>move</color>()</color></i>\n<i><color=#FFFFFF>codemao.<color=#FFBD45>turnLeft</color>()</color></i>\n\
+  <i><color=#FFFFFF><color=#4BC7FF>for</color> __count <color=#4BC7FF>in</color> <color=#FF7A7A>range</color>(<color=#FFBD45>6</color>):</color></i>\n\
+  \    <i><color=#FFFFFF>codemao.<color=#FFBD45>move</color>()</color></i>\n<i><color=#FFFFFF>codemao.<color=#FFBD45>turnLeft</color>()</color></i>\n\
+  <i><color=#FFFFFF><color=#4BC7FF>for</color> __count <color=#4BC7FF>in</color> <color=#FF7A7A>range</color>(<color=#FFBD45>3</color>):</color></i>\n\
+  \    <i><color=#FFFFFF>codemao.<color=#FFBD45>move</color>()</color></i>\n"
+- "<i><color=#CAB1DE>#Welcome to the world of Python</color></i>\n<i><color=#FFFFFF><color=#4BC7FF>for</color>\
+  \ __count <color=#4BC7FF>in</color> <color=#FF7A7A>range</color>(<color=#FFBD45>2</color>):</color></i>\n\
+  \    <i><color=#FFFFFF>codemao.<color=#FFBD45>move</color>()</color></i>\n<i><color=#FFFFFF>codemao.<color=#FFBD45>turnRight</color>()</color></i>\n\
+  <i><color=#FFFFFF>codemao.<color=#FFBD45>move</color>()</color></i>\n<i><color=#FFFFFF>codemao.<color=#FFBD45>turnLeft</color>()</color></i>\n\
+  <i><color=#FFFFFF>codemao.<color=#FFBD45>turnLeft</color>()</color></i>\n<i><color=#FFFFFF><color=#4BC7FF>for</color>\
+  \ __count <color=#4BC7FF>in</color> <color=#FF7A7A>range</color>(<color=#FFBD45>2</color>):</color></i>\n\
+  \    <i><color=#FFFFFF>codemao.<color=#FFBD45>move</color>()</color></i>\n"
+- "<i><color=#CAB1DE>#Welcome to the world of Python</color></i>\n<i><color=#FFFFFF><color=#4BC7FF>for</color>\
+  \ __count <color=#4BC7FF>in</color> <color=#FF7A7A>range</color>(<color=#FFBD45>3</color>):</color></i>\n\
+  \    <i><color=#FFFFFF>codemao.<color=#FFBD45>move</color>()</color></i>\n<i><color=#FFFFFF>codemao.<color=#FFBD45>turnLeft</color>()</color></i>\n\
+  <i><color=#FFFFFF><color=#4BC7FF>for</color> __count <color=#4BC7FF>in</color> <color=#FF7A7A>range</color>(<color=#FFBD45>6</color>):</color></i>\n\
+  \    <i><color=#FFFFFF>codemao.<color=#FFBD45>move</color>()</color></i>\n<i><color=#FFFFFF>codemao.<color=#FFBD45>turnLeft</color>()</color></i>\n\
+  <i><color=#FFFFFF><color=#4BC7FF>for</color> __count <color=#4BC7FF>in</color> <color=#FF7A7A>range</color>(<color=#FFBD45>3</color>):</color></i>\n\
+  \    <i><color=#FFFFFF>codemao.<color=#FFBD45>move</color>()</color></i>\n"
+- "<i><color=#CAB1DE>#Welcome to the world of Python</color></i>\n<i><color=#FFFFFF><color=#4BC7FF>for</color>\
+  \ __count <color=#4BC7FF>in</color> <color=#FF7A7A>range</color>(<color=#FFBD45>3</color>):</color></i>\n\
+  \    <i><color=#FFFFFF>codemao.<color=#FFBD45>move</color>()</color></i>\n<i><color=#FFFFFF>codemao.<color=#FFBD45>turnLeft</color>()</color></i>\n\
+  <i><color=#FFFFFF><color=#4BC7FF>for</color> __count <color=#4BC7FF>in</color> <color=#FF7A7A>range</color>(<color=#FFBD45>6</color>):</color></i>\n\
+  \    <i><color=#FFFFFF>codemao.<color=#FFBD45>move</color>()</color></i>\n<i><color=#FFFFFF>codemao.<color=#FFBD45>turnLeft</color>()</color></i>\n\
+  <i><color=#FFFFFF><color=#4BC7FF>for</color> __count <color=#4BC7FF>in</color> <color=#FF7A7A>range</color>(<color=#FFBD45>3</color>):</color></i>\n\
+  \    <i><color=#FFFFFF>codemao.<color=#FFBD45>move</color>()</color></i>\n"
+- "<i><color=#CAB1DE>#Welcome to the world of Python</color></i>\n<i><color=#FFFFFF><color=#4BC7FF>for</color>\
+  \ __count <color=#4BC7FF>in</color> <color=#FF7A7A>range</color>(<color=#FFBD45>3</color>):</color></i>\n\
+  \    <i><color=#FFFFFF>codemao.<color=#FFBD45>move</color>()</color></i>\n"
+- "<i><color=#CAB1DE>#Welcome to the world of Python</color></i>\n<i><color=#FFFFFF><color=#4BC7FF>for</color>\
+  \ __count <color=#4BC7FF>in</color> <color=#FF7A7A>range</color>(<color=#FFBD45>3</color>):</color></i>\n\
+  \    <i><color=#FFFFFF>codemao.<color=#FFBD45>move</color>()</color></i>\n<i><color=#FFFFFF>codemao.<color=#FFBD45>turnLeft</color>()</color></i>\n\
+  <i><color=#FFFFFF><color=#4BC7FF>for</color> __count <color=#4BC7FF>in</color> <color=#FF7A7A>range</color>(<color=#FFBD45>6</color>):</color></i>\n\
+  \    <i><color=#FFFFFF>codemao.<color=#FFBD45>move</color>()</color></i>\n<i><color=#FFFFFF>codemao.<color=#FFBD45>turnLeft</color>()</color></i>\n\
+  <i><color=#FFFFFF><color=#4BC7FF>for</color> __count <color=#4BC7FF>in</color> <color=#FF7A7A>range</color>(<color=#FFBD45>3</color>):</color></i>\n\
+  \    <i><color=#FFFFFF>codemao.<color=#FFBD45>move</color>()</color></i>\n"
+- "<i><color=#CAB1DE>#Welcome to the world of Python</color></i>\n<i><color=#FFFFFF><color=#4BC7FF>for</color>\
+  \ __count <color=#4BC7FF>in</color> <color=#FF7A7A>range</color>(<color=#FFBD45>3</color>):</color></i>\n\
+  \    <i><color=#FFFFFF>codemao.<color=#FFBD45>move</color>()</color></i>\n<i><color=#FFFFFF>codemao.<color=#FFBD45>turnLeft</color>()</color></i>\n\
+  <i><color=#FFFFFF><color=#4BC7FF>for</color> __count <color=#4BC7FF>in</color> <color=#FF7A7A>range</color>(<color=#FFBD45>6</color>):</color></i>\n\
+  \    <i><color=#FFFFFF>codemao.<color=#FFBD45>move</color>()</color></i>\n<i><color=#FFFFFF>codemao.<color=#FFBD45>turnLeft</color>()</color></i>\n\
+  <i><color=#FFFFFF><color=#4BC7FF>for</color> __count <color=#4BC7FF>in</color> <color=#FF7A7A>range</color>(<color=#FFBD45>3</color>):</color></i>\n\
+  \    <i><color=#FFFFFF>codemao.<color=#FFBD45>move</color>()</color></i>\n"
+- "<i><color=#CAB1DE>#Welcome to the world of Python</color></i>\n<i><color=#FFFFFF><color=#4BC7FF>for</color>\
+  \ __count <color=#4BC7FF>in</color> <color=#FF7A7A>range</color>(<color=#FFBD45>3</color>):</color></i>\n\
+  \    <i><color=#FFFFFF>codemao.<color=#FFBD45>move</color>()</color></i>\n<i><color=#FFFFFF>codemao.<color=#FFBD45>turnLeft</color>()</color></i>\n\
+  <i><color=#FFFFFF><color=#4BC7FF>for</color> __count <color=#4BC7FF>in</color> <color=#FF7A7A>range</color>(<color=#FFBD45>6</color>):</color></i>\n\
+  \    <i><color=#FFFFFF>codemao.<color=#FFBD45>move</color>()</color></i>\n<i><color=#FFFFFF>codemao.<color=#FFBD45>turnLeft</color>()</color></i>\n\
+  <i><color=#FFFFFF><color=#4BC7FF>for</color> __count <color=#4BC7FF>in</color> <color=#FF7A7A>range</color>(<color=#FFBD45>3</color>):</color></i>\n\
+  \    <i><color=#FFFFFF>codemao.<color=#FFBD45>move</color>()</color></i>\n"
+- "<i><color=#CAB1DE>#Welcome to the world of Python</color></i>\n<i><color=#FFFFFF><color=#4BC7FF>for</color>\
+  \ __count <color=#4BC7FF>in</color> <color=#FF7A7A>range</color>(<color=#FFBD45>4</color>):</color></i>\n\
+  \    <i><color=#FFFFFF>codemao.<color=#FFBD45>move</color>()</color></i>\n<i><color=#FFFFFF>codemao.<color=#FFBD45>turnLeft</color>()</color></i>\n\
+  <i><color=#FFFFFF><color=#4BC7FF>for</color> __count <color=#4BC7FF>in</color> <color=#FF7A7A>range</color>(<color=#FFBD45>4</color>):</color></i>\n\
+  \    <i><color=#FFFFFF>codemao.<color=#FFBD45>move</color>()</color></i>\n<i><color=#FFFFFF>codemao.<color=#FFBD45>turnLeft</color>()</color></i>\n\
+  <i><color=#FFFFFF><color=#4BC7FF>for</color> __count <color=#4BC7FF>in</color> <color=#FF7A7A>range</color>(<color=#FFBD45>4</color>):</color></i>\n\
+  \    <i><color=#FFFFFF>codemao.<color=#FFBD45>move</color>()</color></i>\n"
+- "<i><color=#CAB1DE>#Welcome to the world of Python</color></i>\n<i><color=#FFFFFF><color=#4BC7FF>for</color>\
+  \ __count <color=#4BC7FF>in</color> <color=#FF7A7A>range</color>(<color=#FFBD45>3</color>):</color></i>\n\
+  \    <i><color=#FFFFFF>codemao.<color=#FFBD45>move</color>()</color></i>\n<i><color=#FFFFFF>codemao.<color=#FFBD45>turnLeft</color>()</color></i>\n\
+  <i><color=#FFFFFF><color=#4BC7FF>for</color> __count <color=#4BC7FF>in</color> <color=#FF7A7A>range</color>(<color=#FFBD45>3</color>):</color></i>\n\
+  \    <i><color=#FFFFFF>codemao.<color=#FFBD45>move</color>()</color></i>\n<i><color=#FFFFFF>codemao.<color=#FFBD45>turnLeft</color>()</color></i>\n\
+  <i><color=#FFFFFF><color=#4BC7FF>for</color> __count <color=#4BC7FF>in</color> <color=#FF7A7A>range</color>(<color=#FFBD45>3</color>):</color></i>\n\
+  \    <i><color=#FFFFFF>codemao.<color=#FFBD45>move</color>()</color></i>\n"
+- "<i><color=#CAB1DE>#Welcome to the world of Python</color></i>\n<i><color=#FFFFFF><color=#4BC7FF>for</color>\
+  \ __count <color=#4BC7FF>in</color> <color=#FF7A7A>range</color>(<color=#FFBD45>3</color>):</color></i>\n\
+  \    <i><color=#FFFFFF>codemao.<color=#FFBD45>move</color>()</color></i>\n<i><color=#FFFFFF>codemao.<color=#FFBD45>turnLeft</color>()</color></i>\n\
+  <i><color=#FFFFFF><color=#4BC7FF>for</color> __count <color=#4BC7FF>in</color> <color=#FF7A7A>range</color>(<color=#FFBD45>6</color>):</color></i>\n\
+  \    <i><color=#FFFFFF>codemao.<color=#FFBD45>move</color>()</color></i>\n<i><color=#FFFFFF>codemao.<color=#FFBD45>turnLeft</color>()</color></i>\n\
+  <i><color=#FFFFFF><color=#4BC7FF>for</color> __count <color=#4BC7FF>in</color> <color=#FF7A7A>range</color>(<color=#FFBD45>3</color>):</color></i>\n\
+  \    <i><color=#FFFFFF>codemao.<color=#FFBD45>move</color>()</color></i>\n"
+- "<i><color=#CAB1DE>#Welcome to the world of Python</color></i>\n<i><color=#FFFFFF><color=#4BC7FF>for</color>\
+  \ __count <color=#4BC7FF>in</color> <color=#FF7A7A>range</color>(<color=#FFBD45>3</color>):</color></i>\n\
+  \    <i><color=#FFFFFF><color=#4BC7FF>for</color> __count <color=#4BC7FF>in</color>\
+  \ <color=#FF7A7A>range</color>(<color=#FFBD45>3</color>):</color></i>\n        <i><color=#FFFFFF>codemao.<color=#FFBD45>move</color>()</color></i>\n\
+  \    <i><color=#FFFFFF>codemao.<color=#FFBD45>turnRight</color>()</color></i>\n\
+  <i><color=#FFFFFF>codemao.<color=#FFBD45>move</color>()</color></i>\n<i><color=#FFFFFF>codemao.<color=#FFBD45>turnRight</color>()</color></i>\n\
+  <i><color=#FFFFFF><color=#4BC7FF>for</color> __count <color=#4BC7FF>in</color> <color=#FF7A7A>range</color>(<color=#FFBD45>3</color>):</color></i>\n\
+  \    <i><color=#FFFFFF><color=#4BC7FF>for</color> __count <color=#4BC7FF>in</color>\
+  \ <color=#FF7A7A>range</color>(<color=#FFBD45>7</color>):</color></i>\n        <i><color=#FFFFFF>codemao.<color=#FFBD45>move</color>()</color></i>\n\
+  \    <i><color=#FFFFFF>codemao.<color=#FFBD45>turnRight</color>()</color></i>\n"
+- '<i><color=#CAB1DE>#Welcome to the world of Python</color></i>
+
+  <i><color=#FFFFFF>codemao.<color=#FFBD45>move</color>()</color></i>
+
+  <i><color=#FFFFFF>codemao.<color=#FFBD45>turnRight</color>()</color></i>
+
+  <i><color=#FFFFFF>codemao.<color=#FFBD45>move</color>()</color></i>
+
+  <i><color=#FFFFFF>codemao.<color=#FFBD45>turnLeft</color>()</color></i>
+
+  <i><color=#FFFFFF>codemao.<color=#FFBD45>move</color>()</color></i>
+
+  <i><color=#FFFFFF>codemao.<color=#FFBD45>turnLeft</color>()</color></i>
+
+  <i><color=#FFFFFF>codemao.<color=#FFBD45>move</color>()</color></i>
+
+  <i><color=#FFFFFF>codemao.<color=#FFBD45>move</color>()</color></i>
+
+  '
+- "<i><color=#CAB1DE>#Welcome to the world of Python</color></i>\n<i><color=#FFFFFF><color=#4BC7FF>for</color>\
+  \ __count <color=#4BC7FF>in</color> <color=#FF7A7A>range</color>(<color=#FFBD45>2</color>):</color></i>\n\
+  \    <i><color=#FFFFFF>codemao.<color=#FFBD45>move</color>()</color></i>\n    <i><color=#FFFFFF>codemao.<color=#FFBD45>move</color>()</color></i>\n\
+  \    <i><color=#FFFFFF>codemao.<color=#FFBD45>move</color>()</color></i>\n    <i><color=#FFFFFF>codemao.<color=#FFBD45>turnLeft</color>()</color></i>\n\
+  \    <i><color=#FFFFFF>codemao.<color=#FFBD45>move</color>()</color></i>\n    <i><color=#FFFFFF>codemao.<color=#FFBD45>move</color>()</color></i>\n\
+  \    <i><color=#FFFFFF>codemao.<color=#FFBD45>move</color>()</color></i>\n"
+- "<i><color=#CAB1DE>#Welcome to the world of Python</color></i>\n<i><color=#FFFFFF><color=#4BC7FF>for</color>\
+  \ __count <color=#4BC7FF>in</color> <color=#FF7A7A>range</color>(<color=#FFBD45>3</color>):</color></i>\n\
+  \    <i><color=#FFFFFF><color=#4BC7FF>for</color> __count <color=#4BC7FF>in</color>\
+  \ <color=#FF7A7A>range</color>(<color=#FFBD45>3</color>):</color></i>\n        <i><color=#FFFFFF>codemao.<color=#FFBD45>move</color>()</color></i>\n\
+  \    <i><color=#FFFFFF>codemao.<color=#FFBD45>turnRight</color>()</color></i>\n\
+  <i><color=#FFFFFF>codemao.<color=#FFBD45>move</color>()</color></i>\n<i><color=#FFFFFF>codemao.<color=#FFBD45>turnRight</color>()</color></i>\n\
+  <i><color=#FFFFFF><color=#4BC7FF>for</color> __count <color=#4BC7FF>in</color> <color=#FF7A7A>range</color>(<color=#FFBD45>3</color>):</color></i>\n\
+  \    <i><color=#FFFFFF><color=#4BC7FF>for</color> __count <color=#4BC7FF>in</color>\
+  \ <color=#FF7A7A>range</color>(<color=#FFBD45>7</color>):</color></i>\n        <i><color=#FFFFFF>codemao.<color=#FFBD45>move</color>()</color></i>\n\
+  \    <i><color=#FFFFFF>codemao.<color=#FFBD45>turnRight</color>()</color></i>\n"
+- "<i><color=#CAB1DE>#Welcome to the world of Python</color></i>\n<i><color=#FFFFFF><color=#4BC7FF>for</color>\
+  \ __count <color=#4BC7FF>in</color> <color=#FF7A7A>range</color>(<color=#FFBD45>3</color>):</color></i>\n\
+  \    <i><color=#FFFFFF><color=#4BC7FF>for</color> __count <color=#4BC7FF>in</color>\
+  \ <color=#FF7A7A>range</color>(<color=#FFBD45>3</color>):</color></i>\n        <i><color=#FFFFFF>codemao.<color=#FFBD45>move</color>()</color></i>\n\
+  \    <i><color=#FFFFFF>codemao.<color=#FFBD45>turnRight</color>()</color></i>\n\
+  <i><color=#FFFFFF>codemao.<color=#FFBD45>move</color>()</color></i>\n<i><color=#FFFFFF>codemao.<color=#FFBD45>turnRight</color>()</color></i>\n\
+  <i><color=#FFFFFF><color=#4BC7FF>for</color> __count <color=#4BC7FF>in</color> <color=#FF7A7A>range</color>(<color=#FFBD45>3</color>):</color></i>\n\
+  \    <i><color=#FFFFFF><color=#4BC7FF>for</color> __count <color=#4BC7FF>in</color>\
+  \ <color=#FF7A7A>range</color>(<color=#FFBD45>7</color>):</color></i>\n        <i><color=#FFFFFF>codemao.<color=#FFBD45>move</color>()</color></i>\n\
+  \    <i><color=#FFFFFF>codemao.<color=#FFBD45>turnRight</color>()</color></i>\n"
+- "<i><color=#CAB1DE>#Welcome to the world of Python</color></i>\n<i><color=#FFFFFF><color=#4BC7FF>for</color>\
+  \ __count <color=#4BC7FF>in</color> <color=#FF7A7A>range</color>(<color=#FFBD45>3</color>):</color></i>\n\
+  \    <i><color=#FFFFFF>codemao.<color=#FFBD45>move</color>()</color></i>\n<i><color=#FFFFFF>codemao.<color=#FFBD45>turnLeft</color>()</color></i>\n\
+  <i><color=#FFFFFF><color=#4BC7FF>for</color> __count <color=#4BC7FF>in</color> <color=#FF7A7A>range</color>(<color=#FFBD45>6</color>):</color></i>\n\
+  \    <i><color=#FFFFFF>codemao.<color=#FFBD45>move</color>()</color></i>\n<i><color=#FFFFFF>codemao.<color=#FFBD45>turnLeft</color>()</color></i>\n\
+  <i><color=#FFFFFF><color=#4BC7FF>for</color> __count <color=#4BC7FF>in</color> <color=#FF7A7A>range</color>(<color=#FFBD45>3</color>):</color></i>\n\
+  \    <i><color=#FFFFFF>codemao.<color=#FFBD45>move</color>()</color></i>\n"
+- '<i><color=#CAB1DE>#Welcome to the world of Python</color></i>
+
+  <i><color=#FFFFFF>codemao.<color=#FFBD45>move</color>()</color></i>
+
+  <i><color=#FFFFFF>codemao.<color=#FFBD45>move</color>()</color></i>
+
+  <i><color=#FFFFFF>codemao.<color=#FFBD45>move</color>()</color></i>
+
+  '
+- '<i><color=#CAB1DE>#Welcome to the world of Python</color></i>
+
+  <i><color=#FFFFFF>codemao.<color=#FFBD45>move</color>()</color></i>
+
+  <i><color=#FFFFFF>codemao.<color=#FFBD45>move</color>()</color></i>
+
+  <i><color=#FFFFFF>codemao.<color=#FFBD45>move</color>()</color></i>
+
+  <i><color=#FFFFFF>codemao.<color=#FFBD45>turnLeft</color>()</color></i>
+
+  <i><color=#FFFFFF>codemao.<color=#FFBD45>move</color>()</color></i>
+
+  <i><color=#FFFFFF>codemao.<color=#FFBD45>move</color>()</color></i>
+
+  <i><color=#FFFFFF>codemao.<color=#FFBD45>move</color>()</color></i>
+
+  '
+- "<i><color=#CAB1DE>#Welcome to the world of Python</color></i>\n<i><color=#FFFFFF><color=#4BC7FF>for</color>\
+  \ __count <color=#4BC7FF>in</color> <color=#FF7A7A>range</color>(<color=#FFBD45>3</color>):</color></i>\n\
+  \    <i><color=#FFFFFF>codemao.<color=#FFBD45>move</color>()</color></i>\n<i><color=#FFFFFF>codemao.<color=#FFBD45>turnLeft</color>()</color></i>\n\
+  <i><color=#FFFFFF><color=#4BC7FF>for</color> __count <color=#4BC7FF>in</color> <color=#FF7A7A>range</color>(<color=#FFBD45>6</color>):</color></i>\n\
+  \    <i><color=#FFFFFF>codemao.<color=#FFBD45>move</color>()</color></i>\n<i><color=#FFFFFF>codemao.<color=#FFBD45>turnLeft</color>()</color></i>\n\
+  <i><color=#FFFFFF><color=#4BC7FF>for</color> __count <color=#4BC7FF>in</color> <color=#FF7A7A>range</color>(<color=#FFBD45>3</color>):</color></i>\n\
+  \    <i><color=#FFFFFF>codemao.<color=#FFBD45>move</color>()</color></i>\n"
+- "<i><color=#CAB1DE>#Welcome to the world of Python</color></i>\n<i><color=#FFFFFF><color=#4BC7FF>for</color>\
+  \ __count <color=#4BC7FF>in</color> <color=#FF7A7A>range</color>(<color=#FFBD45>3</color>):</color></i>\n\
+  \    <i><color=#FFFFFF>codemao.<color=#FFBD45>move</color>()</color></i>\n<i><color=#FFFFFF>codemao.<color=#FFBD45>turnLeft</color>()</color></i>\n\
+  <i><color=#FFFFFF><color=#4BC7FF>for</color> __count <color=#4BC7FF>in</color> <color=#FF7A7A>range</color>(<color=#FFBD45>6</color>):</color></i>\n\
+  \    <i><color=#FFFFFF>codemao.<color=#FFBD45>move</color>()</color></i>\n<i><color=#FFFFFF>codemao.<color=#FFBD45>turnLeft</color>()</color></i>\n\
+  <i><color=#FFFFFF><color=#4BC7FF>for</color> __count <color=#4BC7FF>in</color> <color=#FF7A7A>range</color>(<color=#FFBD45>3</color>):</color></i>\n\
+  \    <i><color=#FFFFFF>codemao.<color=#FFBD45>move</color>()</color></i>\n"
+- "<i><color=#CAB1DE>#Welcome to the world of Python</color></i>\n<i><color=#FFFFFF><color=#4BC7FF>for</color>\
+  \ __count <color=#4BC7FF>in</color> <color=#FF7A7A>range</color>(<color=#FFBD45>3</color>):</color></i>\n\
+  \    <i><color=#FFFFFF>codemao.<color=#FFBD45>move</color>()</color></i>\n<i><color=#FFFFFF>codemao.<color=#FFBD45>turnLeft</color>()</color></i>\n\
+  <i><color=#FFFFFF><color=#4BC7FF>for</color> __count <color=#4BC7FF>in</color> <color=#FF7A7A>range</color>(<color=#FFBD45>6</color>):</color></i>\n\
+  \    <i><color=#FFFFFF>codemao.<color=#FFBD45>move</color>()</color></i>\n<i><color=#FFFFFF>codemao.<color=#FFBD45>turnLeft</color>()</color></i>\n\
+  <i><color=#FFFFFF><color=#4BC7FF>for</color> __count <color=#4BC7FF>in</color> <color=#FF7A7A>range</color>(<color=#FFBD45>3</color>):</color></i>\n\
+  \    <i><color=#FFFFFF>codemao.<color=#FFBD45>move</color>()</color></i>\n"
+- "<i><color=#CAB1DE>#Welcome to the world of Python</color></i>\n<i><color=#FFFFFF><color=#4BC7FF>for</color>\
+  \ __count <color=#4BC7FF>in</color> <color=#FF7A7A>range</color>(<color=#FFBD45>3</color>):</color></i>\n\
+  \    <i><color=#FFFFFF>codemao.<color=#FFBD45>move</color>()</color></i>\n<i><color=#FFFFFF>codemao.<color=#FFBD45>turnLeft</color>()</color></i>\n\
+  <i><color=#FFFFFF><color=#4BC7FF>for</color> __count <color=#4BC7FF>in</color> <color=#FF7A7A>range</color>(<color=#FFBD45>6</color>):</color></i>\n\
+  \    <i><color=#FFFFFF>codemao.<color=#FFBD45>move</color>()</color></i>\n<i><color=#FFFFFF>codemao.<color=#FFBD45>turnLeft</color>()</color></i>\n\
+  <i><color=#FFFFFF><color=#4BC7FF>for</color> __count <color=#4BC7FF>in</color> <color=#FF7A7A>range</color>(<color=#FFBD45>3</color>):</color></i>\n\
+  \    <i><color=#FFFFFF>codemao.<color=#FFBD45>move</color>()</color></i>\n"
+- "<i><color=#CAB1DE>#Welcome to the world of Python</color></i>\n<i><color=#FFFFFF><color=#4BC7FF>for</color>\
+  \ __count <color=#4BC7FF>in</color> <color=#FF7A7A>range</color>(<color=#FFBD45>3</color>):</color></i>\n\
+  \    <i><color=#FFFFFF>codemao.<color=#FFBD45>move</color>()</color></i>\n<i><color=#FFFFFF>codemao.<color=#FFBD45>turnLeft</color>()</color></i>\n\
+  <i><color=#FFFFFF><color=#4BC7FF>for</color> __count <color=#4BC7FF>in</color> <color=#FF7A7A>range</color>(<color=#FFBD45>6</color>):</color></i>\n\
+  \    <i><color=#FFFFFF>codemao.<color=#FFBD45>move</color>()</color></i>\n<i><color=#FFFFFF>codemao.<color=#FFBD45>turnLeft</color>()</color></i>\n\
+  <i><color=#FFFFFF><color=#4BC7FF>for</color> __count <color=#4BC7FF>in</color> <color=#FF7A7A>range</color>(<color=#FFBD45>3</color>):</color></i>\n\
+  \    <i><color=#FFFFFF>codemao.<color=#FFBD45>move</color>()</color></i>\n"
+- '<i><color=#CAB1DE>#Welcome to the world of Python</color></i>
+
+  <i><color=#FFFFFF>codemao.<color=#FFBD45>turnRight</color>()</color></i>
+
+  <i><color=#FFFFFF>codemao.<color=#FFBD45>move</color>()</color></i>
+
+  <i><color=#FFFFFF>codemao.<color=#FFBD45>move</color>()</color></i>
+
+  '
+- "<i><color=#CAB1DE>#Welcome to the world of Python</color></i>\n<i><color=#FFFFFF><color=#4BC7FF>for</color>\
+  \ __count <color=#4BC7FF>in</color> <color=#FF7A7A>range</color>(<color=#FFBD45>3</color>):</color></i>\n\
+  \    <i><color=#FFFFFF>codemao.<color=#FFBD45>move</color>()</color></i>\n<i><color=#FFFFFF>codemao.<color=#FFBD45>turnLeft</color>()</color></i>\n\
+  <i><color=#FFFFFF><color=#4BC7FF>for</color> __count <color=#4BC7FF>in</color> <color=#FF7A7A>range</color>(<color=#FFBD45>6</color>):</color></i>\n\
+  \    <i><color=#FFFFFF>codemao.<color=#FFBD45>move</color>()</color></i>\n<i><color=#FFFFFF>codemao.<color=#FFBD45>turnLeft</color>()</color></i>\n\
+  <i><color=#FFFFFF><color=#4BC7FF>for</color> __count <color=#4BC7FF>in</color> <color=#FF7A7A>range</color>(<color=#FFBD45>3</color>):</color></i>\n\
+  \    <i><color=#FFFFFF>codemao.<color=#FFBD45>move</color>()</color></i>\n"
+- "<i><color=#CAB1DE>#Welcome to the world of Python</color></i>\n<i><color=#FFFFFF><color=#4BC7FF>for</color>\
+  \ __count <color=#4BC7FF>in</color> <color=#FF7A7A>range</color>(<color=#FFBD45>3</color>):</color></i>\n\
+  \    <i><color=#FFFFFF><color=#4BC7FF>for</color> __count <color=#4BC7FF>in</color>\
+  \ <color=#FF7A7A>range</color>(<color=#FFBD45>3</color>):</color></i>\n        <i><color=#FFFFFF>codemao.<color=#FFBD45>move</color>()</color></i>\n\
+  \    <i><color=#FFFFFF>codemao.<color=#FFBD45>turnRight</color>()</color></i>\n\
+  <i><color=#FFFFFF><color=#4BC7FF>for</color> __count <color=#4BC7FF>in</color> <color=#FF7A7A>range</color>(<color=#FFBD45>3</color>):</color></i>\n\
+  \    <i><color=#FFFFFF>codemao.<color=#FFBD45>move</color>()</color></i>\n    <i><color=#FFFFFF>codemao.<color=#FFBD45>turnRight</color>()</color></i>\n\
+  \    <i><color=#FFFFFF><color=#4BC7FF>for</color> __count <color=#4BC7FF>in</color>\
+  \ <color=#FF7A7A>range</color>(<color=#FFBD45>7</color>):</color></i>\n        <i><color=#FFFFFF>codemao.<color=#FFBD45>move</color>()</color></i>\n"
+- '<i><color=#CAB1DE>#Welcome to the world of Python</color></i>
+
+  <i><color=#FFFFFF>codemao.<color=#FFBD45>move</color>()</color></i>
+
+  '
+- '<i><color=#CAB1DE>#Welcome to the world of Python</color></i>
+
+  <i><color=#FFFFFF>codemao.<color=#FFBD45>move</color>()</color></i>
+
+  '
+- "<i><color=#CAB1DE>#Welcome to the world of Python</color></i>\n<i><color=#FFFFFF><color=#4BC7FF>for</color>\
+  \ __count <color=#4BC7FF>in</color> <color=#FF7A7A>range</color>(<color=#FFBD45>3</color>):</color></i>\n\
+  \    <i><color=#FFFFFF>codemao.<color=#FFBD45>move</color>()</color></i>\n<i><color=#FFFFFF>codemao.<color=#FFBD45>turnLeft</color>()</color></i>\n\
+  <i><color=#FFFFFF><color=#4BC7FF>for</color> __count <color=#4BC7FF>in</color> <color=#FF7A7A>range</color>(<color=#FFBD45>6</color>):</color></i>\n\
+  \    <i><color=#FFFFFF>codemao.<color=#FFBD45>move</color>()</color></i>\n<i><color=#FFFFFF>codemao.<color=#FFBD45>turnLeft</color>()</color></i>\n\
+  <i><color=#FFFFFF><color=#4BC7FF>for</color> __count <color=#4BC7FF>in</color> <color=#FF7A7A>range</color>(<color=#FFBD45>3</color>):</color></i>\n\
+  \    <i><color=#FFFFFF>codemao.<color=#FFBD45>move</color>()</color></i>\n"
+- "<i><color=#CAB1DE>#Welcome to the world of Python</color></i>\n<i><color=#FFFFFF><color=#4BC7FF>for</color>\
+  \ __count <color=#4BC7FF>in</color> <color=#FF7A7A>range</color>(<color=#FFBD45>3</color>):</color></i>\n\
+  \    <i><color=#FFFFFF>codemao.<color=#FFBD45>move</color>()</color></i>\n<i><color=#FFFFFF>codemao.<color=#FFBD45>turnLeft</color>()</color></i>\n\
+  <i><color=#FFFFFF><color=#4BC7FF>for</color> __count <color=#4BC7FF>in</color> <color=#FF7A7A>range</color>(<color=#FFBD45>6</color>):</color></i>\n\
+  \    <i><color=#FFFFFF>codemao.<color=#FFBD45>move</color>()</color></i>\n<i><color=#FFFFFF>codemao.<color=#FFBD45>turnLeft</color>()</color></i>\n\
+  <i><color=#FFFFFF><color=#4BC7FF>for</color> __count <color=#4BC7FF>in</color> <color=#FF7A7A>range</color>(<color=#FFBD45>3</color>):</color></i>\n\
+  \    <i><color=#FFFFFF>codemao.<color=#FFBD45>move</color>()</color></i>\n"
+- "<i><color=#CAB1DE>#Welcome to the world of Python</color></i>\n<i><color=#FFFFFF><color=#4BC7FF>for</color>\
+  \ __count <color=#4BC7FF>in</color> <color=#FF7A7A>range</color>(<color=#FFBD45>3</color>):</color></i>\n\
+  \    <i><color=#FFFFFF>codemao.<color=#FFBD45>move</color>()</color></i>\n<i><color=#FFFFFF>codemao.<color=#FFBD45>turnLeft</color>()</color></i>\n\
+  <i><color=#FFFFFF><color=#4BC7FF>for</color> __count <color=#4BC7FF>in</color> <color=#FF7A7A>range</color>(<color=#FFBD45>6</color>):</color></i>\n\
+  \    <i><color=#FFFFFF>codemao.<color=#FFBD45>move</color>()</color></i>\n<i><color=#FFFFFF>codemao.<color=#FFBD45>turnLeft</color>()</color></i>\n\
+  <i><color=#FFFFFF><color=#4BC7FF>for</color> __count <color=#4BC7FF>in</color> <color=#FF7A7A>range</color>(<color=#FFBD45>3</color>):</color></i>\n\
+  \    <i><color=#FFFFFF>codemao.<color=#FFBD45>move</color>()</color></i>\n"
+- "<i><color=#CAB1DE>#Welcome to the world of Python</color></i>\n<i><color=#FFFFFF><color=#4BC7FF>for</color>\
+  \ __count <color=#4BC7FF>in</color> <color=#FF7A7A>range</color>(<color=#FFBD45>3</color>):</color></i>\n\
+  \    <i><color=#FFFFFF>codemao.<color=#FFBD45>move</color>()</color></i>\n<i><color=#FFFFFF>codemao.<color=#FFBD45>turnLeft</color>()</color></i>\n\
+  <i><color=#FFFFFF><color=#4BC7FF>for</color> __count <color=#4BC7FF>in</color> <color=#FF7A7A>range</color>(<color=#FFBD45>6</color>):</color></i>\n\
+  \    <i><color=#FFFFFF>codemao.<color=#FFBD45>move</color>()</color></i>\n<i><color=#FFFFFF>codemao.<color=#FFBD45>turnLeft</color>()</color></i>\n\
+  <i><color=#FFFFFF><color=#4BC7FF>for</color> __count <color=#4BC7FF>in</color> <color=#FF7A7A>range</color>(<color=#FFBD45>3</color>):</color></i>\n\
+  \    <i><color=#FFFFFF>codemao.<color=#FFBD45>move</color>()</color></i>\n"
+- "<i><color=#CAB1DE>#Welcome to the world of Python</color></i>\n<i><color=#FFFFFF><color=#4BC7FF>for</color>\
+  \ __count <color=#4BC7FF>in</color> <color=#FF7A7A>range</color>(<color=#FFBD45>3</color>):</color></i>\n\
+  \    <i><color=#FFFFFF>codemao.<color=#FFBD45>move</color>()</color></i>\n<i><color=#FFFFFF>codemao.<color=#FFBD45>turnLeft</color>()</color></i>\n\
+  <i><color=#FFFFFF><color=#4BC7FF>for</color> __count <color=#4BC7FF>in</color> <color=#FF7A7A>range</color>(<color=#FFBD45>6</color>):</color></i>\n\
+  \    <i><color=#FFFFFF>codemao.<color=#FFBD45>move</color>()</color></i>\n<i><color=#FFFFFF>codemao.<color=#FFBD45>turnLeft</color>()</color></i>\n\
+  <i><color=#FFFFFF><color=#4BC7FF>for</color> __count <color=#4BC7FF>in</color> <color=#FF7A7A>range</color>(<color=#FFBD45>3</color>):</color></i>\n\
+  \    <i><color=#FFFFFF>codemao.<color=#FFBD45>move</color>()</color></i>\n"
+- '<i><color=#CAB1DE>#Welcome to the world of Python</color></i>
+
+  <i><color=#FFFFFF>codemao.<color=#FFBD45>move</color>()</color></i>
+
+  <i><color=#FFFFFF>codemao.<color=#FFBD45>turnLeft</color>()</color></i>
+
+  <i><color=#FFFFFF>codemao.<color=#FFBD45>move</color>()</color></i>
+
+  <i><color=#FFFFFF>codemao.<color=#FFBD45>turnLeft</color>()</color></i>
+
+  <i><color=#FFFFFF>codemao.<color=#FFBD45>move</color>()</color></i>
+
+  '
+- '<i><color=#CAB1DE>#Welcome to the world of Python</color></i>
+
+  <i><color=#FFFFFF>codemao.<color=#FFBD45>move</color>()</color></i>
+
+  <i><color=#FFFFFF>codemao.<color=#FFBD45>move</color>()</color></i>
+
+  <i><color=#FFFFFF>codemao.<color=#FFBD45>turnRight</color>()</color></i>
+
+  <i><color=#FFFFFF>codemao.<color=#FFBD45>move</color>()</color></i>
+
+  <i><color=#FFFFFF>codemao.<color=#FFBD45>turnRight</color>()</color></i>
+
+  <i><color=#FFFFFF>codemao.<color=#FFBD45>turnRight</color>()</color></i>
+
+  <i><color=#FFFFFF>codemao.<color=#FFBD45>move</color>()</color></i>
+
+  <i><color=#FFFFFF>codemao.<color=#FFBD45>move</color>()</color></i>
+
+  <i><color=#FFFFFF>codemao.<color=#FFBD45>move</color>()</color></i>
+
+  '
+- "<i><color=#CAB1DE>#Welcome to the world of Python</color></i>\n<i><color=#FFFFFF><color=#4BC7FF>for</color>\
+  \ __count <color=#4BC7FF>in</color> <color=#FF7A7A>range</color>(<color=#FFBD45>3</color>):</color></i>\n\
+  \    <i><color=#FFFFFF>codemao.<color=#FFBD45>move</color>()</color></i>\n<i><color=#FFFFFF>codemao.<color=#FFBD45>turnLeft</color>()</color></i>\n\
+  <i><color=#FFFFFF><color=#4BC7FF>for</color> __count <color=#4BC7FF>in</color> <color=#FF7A7A>range</color>(<color=#FFBD45>6</color>):</color></i>\n\
+  \    <i><color=#FFFFFF>codemao.<color=#FFBD45>move</color>()</color></i>\n<i><color=#FFFFFF>codemao.<color=#FFBD45>turnLeft</color>()</color></i>\n\
+  <i><color=#FFFFFF><color=#4BC7FF>for</color> __count <color=#4BC7FF>in</color> <color=#FF7A7A>range</color>(<color=#FFBD45>3</color>):</color></i>\n\
+  \    <i><color=#FFFFFF>codemao.<color=#FFBD45>move</color>()</color></i>\n"
+- "<i><color=#CAB1DE>#Welcome to the world of Python</color></i>\n<i><color=#FFFFFF><color=#4BC7FF>for</color>\
+  \ __count <color=#4BC7FF>in</color> <color=#FF7A7A>range</color>(<color=#FFBD45>2</color>):</color></i>\n\
+  \    <i><color=#FFFFFF><color=#4BC7FF>for</color> __count <color=#4BC7FF>in</color>\
+  \ <color=#FF7A7A>range</color>(<color=#FFBD45>3</color>):</color></i>\n        <i><color=#FFFFFF>codemao.<color=#FFBD45>move</color>()</color></i>\n\
+  \    <i><color=#FFFFFF>codemao.<color=#FFBD45>turnLeft</color>()</color></i>\n \
+  \   <i><color=#FFFFFF><color=#4BC7FF>for</color> __count <color=#4BC7FF>in</color>\
+  \ <color=#FF7A7A>range</color>(<color=#FFBD45>3</color>):</color></i>\n        <i><color=#FFFFFF>codemao.<color=#FFBD45>move</color>()</color></i>\n"
+- '<i><color=#CAB1DE>#Welcome to the world of Python</color></i>
+
+  <i><color=#FFFFFF>codemao.<color=#FFBD45>move</color>()</color></i>
+
+  <i><color=#FFFFFF>codemao.<color=#FFBD45>move</color>()</color></i>
+
+  <i><color=#FFFFFF>codemao.<color=#FFBD45>move</color>()</color></i>
+
+  <i><color=#FFFFFF>codemao.<color=#FFBD45>move</color>()</color></i>
+
+  '
+- "<i><color=#CAB1DE>#Welcome to the world of Python</color></i>\n<i><color=#FFFFFF>codemao.<color=#FFBD45>move</color>()</color></i>\n\
+  <i><color=#FFFFFF>codemao.<color=#FFBD45>turnRight</color>()</color></i>\n<i><color=#FFFFFF>codemao.<color=#FFBD45>move</color>()</color></i>\n\
+  <i><color=#FFFFFF>codemao.<color=#FFBD45>turnLeft</color>()</color></i>\n<i><color=#FFFFFF>codemao.<color=#FFBD45>move</color>()</color></i>\n\
+  <i><color=#FFFFFF>codemao.<color=#FFBD45>turnLeft</color>()</color></i>\n<i><color=#FFFFFF><color=#4BC7FF>for</color>\
+  \ __count <color=#4BC7FF>in</color> <color=#FF7A7A>range</color>(<color=#FFBD45>2</color>):</color></i>\n\
+  \    <i><color=#FFFFFF>codemao.<color=#FFBD45>move</color>()</color></i>\n"
+- "<i><color=#CAB1DE>#Welcome to the world of Python</color></i>\n<i><color=#FFFFFF><color=#4BC7FF>for</color>\
+  \ __count <color=#4BC7FF>in</color> <color=#FF7A7A>range</color>(<color=#FFBD45>3</color>):</color></i>\n\
+  \    <i><color=#FFFFFF>codemao.<color=#FFBD45>move</color>()</color></i>\n<i><color=#FFFFFF>codemao.<color=#FFBD45>turnLeft</color>()</color></i>\n\
+  <i><color=#FFFFFF><color=#4BC7FF>for</color> __count <color=#4BC7FF>in</color> <color=#FF7A7A>range</color>(<color=#FFBD45>6</color>):</color></i>\n\
+  \    <i><color=#FFFFFF>codemao.<color=#FFBD45>move</color>()</color></i>\n<i><color=#FFFFFF>codemao.<color=#FFBD45>turnLeft</color>()</color></i>\n\
+  <i><color=#FFFFFF><color=#4BC7FF>for</color> __count <color=#4BC7FF>in</color> <color=#FF7A7A>range</color>(<color=#FFBD45>3</color>):</color></i>\n\
+  \    <i><color=#FFFFFF>codemao.<color=#FFBD45>move</color>()</color></i>\n"
+- "<i><color=#CAB1DE>#Welcome to the world of Python</color></i>\n<i><color=#FFFFFF><color=#4BC7FF>for</color>\
+  \ __count <color=#4BC7FF>in</color> <color=#FF7A7A>range</color>(<color=#FFBD45>3</color>):</color></i>\n\
+  \    <i><color=#FFFFFF>codemao.<color=#FFBD45>move</color>()</color></i>\n<i><color=#FFFFFF>codemao.<color=#FFBD45>turnLeft</color>()</color></i>\n\
+  <i><color=#FFFFFF><color=#4BC7FF>for</color> __count <color=#4BC7FF>in</color> <color=#FF7A7A>range</color>(<color=#FFBD45>6</color>):</color></i>\n\
+  \    <i><color=#FFFFFF>codemao.<color=#FFBD45>move</color>()</color></i>\n<i><color=#FFFFFF>codemao.<color=#FFBD45>turnLeft</color>()</color></i>\n\
+  <i><color=#FFFFFF><color=#4BC7FF>for</color> __count <color=#4BC7FF>in</color> <color=#FF7A7A>range</color>(<color=#FFBD45>3</color>):</color></i>\n\
+  \    <i><color=#FFFFFF>codemao.<color=#FFBD45>move</color>()</color></i>\n"
+- '<i><color=#CAB1DE>#Welcome to the world of Python</color></i>
+
+  <i><color=#FFFFFF>codemao.<color=#FFBD45>move</color>()</color></i>
+
+  <i><color=#FFFFFF>codemao.<color=#FFBD45>move</color>()</color></i>
+
+  <i><color=#FFFFFF>codemao.<color=#FFBD45>move</color>()</color></i>
+
+  '
+- '<i><color=#CAB1DE>#Welcome to the world of Python</color></i>
+
+  <i><color=#FFFFFF>codemao.<color=#FFBD45>move</color>()</color></i>
+
+  <i><color=#FFFFFF>codemao.<color=#FFBD45>move</color>()</color></i>
+
+  <i><color=#FFFFFF>codemao.<color=#FFBD45>turnLeft</color>()</color></i>
+
+  <i><color=#FFFFFF>codemao.<color=#FFBD45>move</color>()</color></i>
+
+  <i><color=#FFFFFF>codemao.<color=#FFBD45>move</color>()</color></i>
+
+  '
+- "<i><color=#CAB1DE>#Welcome to the world of Python</color></i>\n<i><color=#FFFFFF><color=#4BC7FF>for</color>\
+  \ __count <color=#4BC7FF>in</color> <color=#FF7A7A>range</color>(<color=#FFBD45>3</color>):</color></i>\n\
+  \    <i><color=#FFFFFF>codemao.<color=#FFBD45>move</color>()</color></i>\n"
+- '<i><color=#CAB1DE>#Welcome to the world of Python</color></i>
+
+  <i><color=#FFFFFF>codemao.<color=#FFBD45>move</color>()</color></i>
+
+  '
+- "<i><color=#CAB1DE>#Welcome to the world of Python</color></i>\n<i><color=#FFFFFF><color=#4BC7FF>for</color>\
+  \ __count <color=#4BC7FF>in</color> <color=#FF7A7A>range</color>(<color=#FFBD45>3</color>):</color></i>\n\
+  \    <i><color=#FFFFFF>codemao.<color=#FFBD45>move</color>()</color></i>\n<i><color=#FFFFFF>codemao.<color=#FFBD45>turnLeft</color>()</color></i>\n\
+  <i><color=#FFFFFF><color=#4BC7FF>for</color> __count <color=#4BC7FF>in</color> <color=#FF7A7A>range</color>(<color=#FFBD45>6</color>):</color></i>\n\
+  \    <i><color=#FFFFFF>codemao.<color=#FFBD45>move</color>()</color></i>\n<i><color=#FFFFFF>codemao.<color=#FFBD45>turnLeft</color>()</color></i>\n\
+  <i><color=#FFFFFF><color=#4BC7FF>for</color> __count <color=#4BC7FF>in</color> <color=#FF7A7A>range</color>(<color=#FFBD45>3</color>):</color></i>\n\
+  \    <i><color=#FFFFFF>codemao.<color=#FFBD45>move</color>()</color></i>\n"
+- "<i><color=#CAB1DE>#Welcome to the world of Python</color></i>\n<i><color=#FFFFFF><color=#4BC7FF>for</color>\
+  \ __count <color=#4BC7FF>in</color> <color=#FF7A7A>range</color>(<color=#FFBD45>3</color>):</color></i>\n\
+  \    <i><color=#FFFFFF>codemao.<color=#FFBD45>move</color>()</color></i>\n<i><color=#FFFFFF>codemao.<color=#FFBD45>turnLeft</color>()</color></i>\n\
+  <i><color=#FFFFFF><color=#4BC7FF>for</color> __count <color=#4BC7FF>in</color> <color=#FF7A7A>range</color>(<color=#FFBD45>6</color>):</color></i>\n\
+  \    <i><color=#FFFFFF>codemao.<color=#FFBD45>move</color>()</color></i>\n<i><color=#FFFFFF>codemao.<color=#FFBD45>turnLeft</color>()</color></i>\n\
+  <i><color=#FFFFFF><color=#4BC7FF>for</color> __count <color=#4BC7FF>in</color> <color=#FF7A7A>range</color>(<color=#FFBD45>3</color>):</color></i>\n\
+  \    <i><color=#FFFFFF>codemao.<color=#FFBD45>move</color>()</color></i>\n"
+- '<i><color=#CAB1DE>#Welcome to the world of Python</color></i>
+
+  <i><color=#FFFFFF>codemao.<color=#FFBD45>move</color>()</color></i>
+
+  <i><color=#FFFFFF>codemao.<color=#FFBD45>move</color>()</color></i>
+
+  <i><color=#FFFFFF>codemao.<color=#FFBD45>turnRight</color>()</color></i>
+
+  <i><color=#FFFFFF>codemao.<color=#FFBD45>move</color>()</color></i>
+
+  <i><color=#FFFFFF>codemao.<color=#FFBD45>turnLeft</color>()</color></i>
+
+  <i><color=#FFFFFF>codemao.<color=#FFBD45>turnLeft</color>()</color></i>
+
+  <i><color=#FFFFFF>codemao.<color=#FFBD45>move</color>()</color></i>
+
+  <i><color=#FFFFFF>codemao.<color=#FFBD45>move</color>()</color></i>
+
+  '
+- '<i><color=#CAB1DE>#Welcome to the world of Python</color></i>
+
+  <i><color=#FFFFFF>codemao.<color=#FFBD45>move</color>()</color></i>
+
+  '
+- "<i><color=#CAB1DE>#Welcome to the world of Python</color></i>\n<i><color=#FFFFFF><color=#4BC7FF>for</color>\
+  \ __count <color=#4BC7FF>in</color> <color=#FF7A7A>range</color>(<color=#FFBD45>4</color>):</color></i>\n\
+  \    <i><color=#FFFFFF>codemao.<color=#FFBD45>move</color>()</color></i>\n<i><color=#FFFFFF>codemao.<color=#FFBD45>turnLeft</color>()</color></i>\n\
+  <i><color=#FFFFFF><color=#4BC7FF>for</color> __count <color=#4BC7FF>in</color> <color=#FF7A7A>range</color>(<color=#FFBD45>4</color>):</color></i>\n\
+  \    <i><color=#FFFFFF>codemao.<color=#FFBD45>move</color>()</color></i>\n<i><color=#FFFFFF>codemao.<color=#FFBD45>turnLeft</color>()</color></i>\n\
+  <i><color=#FFFFFF><color=#4BC7FF>for</color> __count <color=#4BC7FF>in</color> <color=#FF7A7A>range</color>(<color=#FFBD45>4</color>):</color></i>\n\
+  \    <i><color=#FFFFFF>codemao.<color=#FFBD45>move</color>()</color></i>\n"
+- '<i><color=#CAB1DE>#Welcome to the world of Python</color></i>
+
+  <i><color=#FFFFFF>codemao.<color=#FFBD45>move</color>()</color></i>
+
+  <i><color=#FFFFFF>codemao.<color=#FFBD45>move</color>()</color></i>
+
+  <i><color=#FFFFFF>codemao.<color=#FFBD45>turnRight</color>()</color></i>
+
+  <i><color=#FFFFFF>codemao.<color=#FFBD45>move</color>()</color></i>
+
+  <i><color=#FFFFFF>codemao.<color=#FFBD45>turnLeft</color>()</color></i>
+
+  <i><color=#FFFFFF>codemao.<color=#FFBD45>turnLeft</color>()</color></i>
+
+  <i><color=#FFFFFF>codemao.<color=#FFBD45>move</color>()</color></i>
+
+  <i><color=#FFFFFF>codemao.<color=#FFBD45>move</color>()</color></i>
+
+  '
+- "<i><color=#CAB1DE>#Welcome to the world of Python</color></i>\n<i><color=#FFFFFF><color=#4BC7FF>for</color>\
+  \ __count <color=#4BC7FF>in</color> <color=#FF7A7A>range</color>(<color=#FFBD45>3</color>):</color></i>\n\
+  \    <i><color=#FFFFFF>codemao.<color=#FFBD45>move</color>()</color></i>\n<i><color=#FFFFFF>codemao.<color=#FFBD45>turnLeft</color>()</color></i>\n\
+  <i><color=#FFFFFF><color=#4BC7FF>for</color> __count <color=#4BC7FF>in</color> <color=#FF7A7A>range</color>(<color=#FFBD45>6</color>):</color></i>\n\
+  \    <i><color=#FFFFFF>codemao.<color=#FFBD45>move</color>()</color></i>\n<i><color=#FFFFFF>codemao.<color=#FFBD45>turnLeft</color>()</color></i>\n\
+  <i><color=#FFFFFF><color=#4BC7FF>for</color> __count <color=#4BC7FF>in</color> <color=#FF7A7A>range</color>(<color=#FFBD45>3</color>):</color></i>\n\
+  \    <i><color=#FFFFFF>codemao.<color=#FFBD45>move</color>()</color></i>\n"
+- "<i><color=#CAB1DE>#Welcome to the world of Python</color></i>\n<i><color=#FFFFFF><color=#4BC7FF>for</color>\
+  \ __count <color=#4BC7FF>in</color> <color=#FF7A7A>range</color>(<color=#FFBD45>3</color>):</color></i>\n\
+  \    <i><color=#FFFFFF>codemao.<color=#FFBD45>move</color>()</color></i>\n<i><color=#FFFFFF>codemao.<color=#FFBD45>turnLeft</color>()</color></i>\n\
+  <i><color=#FFFFFF><color=#4BC7FF>for</color> __count <color=#4BC7FF>in</color> <color=#FF7A7A>range</color>(<color=#FFBD45>6</color>):</color></i>\n\
+  \    <i><color=#FFFFFF>codemao.<color=#FFBD45>move</color>()</color></i>\n<i><color=#FFFFFF>codemao.<color=#FFBD45>turnLeft</color>()</color></i>\n\
+  <i><color=#FFFFFF><color=#4BC7FF>for</color> __count <color=#4BC7FF>in</color> <color=#FF7A7A>range</color>(<color=#FFBD45>3</color>):</color></i>\n\
+  \    <i><color=#FFFFFF>codemao.<color=#FFBD45>move</color>()</color></i>\n"
+- "<i><color=#CAB1DE>#Welcome to the world of Python</color></i>\n<i><color=#FFFFFF><color=#4BC7FF>for</color>\
+  \ __count <color=#4BC7FF>in</color> <color=#FF7A7A>range</color>(<color=#FFBD45>3</color>):</color></i>\n\
+  \    <i><color=#FFFFFF><color=#4BC7FF>for</color> __count <color=#4BC7FF>in</color>\
+  \ <color=#FF7A7A>range</color>(<color=#FFBD45>2</color>):</color></i>\n        <i><color=#FFFFFF>codemao.<color=#FFBD45>move</color>()</color></i>\n\
+  \    <i><color=#FFFFFF>codemao.<color=#FFBD45>turnLeft</color>()</color></i>\n"
+- "<i><color=#CAB1DE>#Welcome to the world of Python</color></i>\n<i><color=#FFFFFF><color=#4BC7FF>for</color>\
+  \ __count <color=#4BC7FF>in</color> <color=#FF7A7A>range</color>(<color=#FFBD45>3</color>):</color></i>\n\
+  \    <i><color=#FFFFFF>codemao.<color=#FFBD45>move</color>()</color></i>\n<i><color=#FFFFFF>codemao.<color=#FFBD45>turnLeft</color>()</color></i>\n\
+  <i><color=#FFFFFF><color=#4BC7FF>for</color> __count <color=#4BC7FF>in</color> <color=#FF7A7A>range</color>(<color=#FFBD45>6</color>):</color></i>\n\
+  \    <i><color=#FFFFFF>codemao.<color=#FFBD45>move</color>()</color></i>\n<i><color=#FFFFFF>codemao.<color=#FFBD45>turnLeft</color>()</color></i>\n\
+  <i><color=#FFFFFF><color=#4BC7FF>for</color> __count <color=#4BC7FF>in</color> <color=#FF7A7A>range</color>(<color=#FFBD45>3</color>):</color></i>\n\
+  \    <i><color=#FFFFFF>codemao.<color=#FFBD45>move</color>()</color></i>\n"
+- "<i><color=#CAB1DE>#Welcome to the world of Python</color></i>\n<i><color=#FFFFFF><color=#4BC7FF>for</color>\
+  \ __count <color=#4BC7FF>in</color> <color=#FF7A7A>range</color>(<color=#FFBD45>2</color>):</color></i>\n\
+  \    <i><color=#FFFFFF>codemao.<color=#FFBD45>move</color>()</color></i>\n<i><color=#FFFFFF>codemao.<color=#FFBD45>turnRight</color>()</color></i>\n\
+  <i><color=#FFFFFF>codemao.<color=#FFBD45>move</color>()</color></i>\n<i><color=#FFFFFF><color=#4BC7FF>for</color>\
+  \ __count <color=#4BC7FF>in</color> <color=#FF7A7A>range</color>(<color=#FFBD45>2</color>):</color></i>\n\
+  \    <i><color=#FFFFFF>codemao.<color=#FFBD45>turnRight</color>()</color></i>\n\
+  <i><color=#FFFFFF><color=#4BC7FF>for</color> __count <color=#4BC7FF>in</color> <color=#FF7A7A>range</color>(<color=#FFBD45>2</color>):</color></i>\n\
+  \    <i><color=#FFFFFF>codemao.<color=#FFBD45>move</color>()</color></i>\n"
+- "<i><color=#CAB1DE>#Welcome to the world of Python</color></i>\n<i><color=#FFFFFF><color=#4BC7FF>for</color>\
+  \ __count <color=#4BC7FF>in</color> <color=#FF7A7A>range</color>(<color=#FFBD45>3</color>):</color></i>\n\
+  \    <i><color=#FFFFFF>codemao.<color=#FFBD45>move</color>()</color></i>\n<i><color=#FFFFFF>codemao.<color=#FFBD45>turnLeft</color>()</color></i>\n\
+  <i><color=#FFFFFF>codemao.<color=#FFBD45>move</color>()</color></i>\n<i><color=#FFFFFF><color=#4BC7FF>for</color>\
+  \ __count <color=#4BC7FF>in</color> <color=#FF7A7A>range</color>(<color=#FFBD45>4</color>):</color></i>\n\
+  \    <i><color=#FFFFFF>codemao.<color=#FFBD45>move</color>()</color></i>\n<i><color=#FFFFFF>codemao.<color=#FFBD45>move</color>()</color></i>\n\
+  <i><color=#FFFFFF>codemao.<color=#FFBD45>turnLeft</color>()</color></i>\n<i><color=#FFFFFF><color=#4BC7FF>for</color>\
+  \ __count <color=#4BC7FF>in</color> <color=#FF7A7A>range</color>(<color=#FFBD45>3</color>):</color></i>\n\
+  \    <i><color=#FFFFFF>codemao.<color=#FFBD45>move</color>()</color></i>\n"
+- "<i><color=#CAB1DE>#Welcome to the world of Python</color></i>\n<i><color=#FFFFFF><color=#4BC7FF>for</color>\
+  \ __count <color=#4BC7FF>in</color> <color=#FF7A7A>range</color>(<color=#FFBD45>3</color>):</color></i>\n\
+  \    <i><color=#FFFFFF>codemao.<color=#FFBD45>move</color>()</color></i>\n"
+- "<i><color=#CAB1DE>#Welcome to the world of Python</color></i>\n<i><color=#FFFFFF><color=#4BC7FF>for</color>\
+  \ __count <color=#4BC7FF>in</color> <color=#FF7A7A>range</color>(<color=#FFBD45>3</color>):</color></i>\n\
+  \    <i><color=#FFFFFF>codemao.<color=#FFBD45>move</color>()</color></i>\n<i><color=#FFFFFF>codemao.<color=#FFBD45>turnLeft</color>()</color></i>\n\
+  <i><color=#FFFFFF><color=#4BC7FF>for</color> __count <color=#4BC7FF>in</color> <color=#FF7A7A>range</color>(<color=#FFBD45>6</color>):</color></i>\n\
+  \    <i><color=#FFFFFF>codemao.<color=#FFBD45>move</color>()</color></i>\n<i><color=#FFFFFF>codemao.<color=#FFBD45>turnLeft</color>()</color></i>\n\
+  <i><color=#FFFFFF><color=#4BC7FF>for</color> __count <color=#4BC7FF>in</color> <color=#FF7A7A>range</color>(<color=#FFBD45>3</color>):</color></i>\n\
+  \    <i><color=#FFFFFF>codemao.<color=#FFBD45>move</color>()</color></i>\n"
+- "<i><color=#CAB1DE>#Welcome to the world of Python</color></i>\n<i><color=#FFFFFF><color=#4BC7FF>for</color>\
+  \ __count <color=#4BC7FF>in</color> <color=#FF7A7A>range</color>(<color=#FFBD45>3</color>):</color></i>\n\
+  \    <i><color=#FFFFFF>codemao.<color=#FFBD45>move</color>()</color></i>\n<i><color=#FFFFFF>codemao.<color=#FFBD45>turnLeft</color>()</color></i>\n\
+  <i><color=#FFFFFF><color=#4BC7FF>for</color> __count <color=#4BC7FF>in</color> <color=#FF7A7A>range</color>(<color=#FFBD45>6</color>):</color></i>\n\
+  \    <i><color=#FFFFFF>codemao.<color=#FFBD45>move</color>()</color></i>\n<i><color=#FFFFFF>codemao.<color=#FFBD45>turnLeft</color>()</color></i>\n\
+  <i><color=#FFFFFF><color=#4BC7FF>for</color> __count <color=#4BC7FF>in</color> <color=#FF7A7A>range</color>(<color=#FFBD45>3</color>):</color></i>\n\
+  \    <i><color=#FFFFFF>codemao.<color=#FFBD45>move</color>()</color></i>\n"
+- '<i><color=#CAB1DE>#Welcome to the world of Python</color></i>
+
+  <i><color=#FFFFFF>codemao.<color=#FFBD45>move</color>()</color></i>
+
+  <i><color=#FFFFFF>codemao.<color=#FFBD45>move</color>()</color></i>
+
+  <i><color=#FFFFFF>codemao.<color=#FFBD45>move</color>()</color></i>
+
+  '
+- "<i><color=#CAB1DE>#Welcome to the world of Python</color></i>\n<i><color=#FFFFFF><color=#4BC7FF>for</color>\
+  \ __count <color=#4BC7FF>in</color> <color=#FF7A7A>range</color>(<color=#FFBD45>3</color>):</color></i>\n\
+  \    <i><color=#FFFFFF>codemao.<color=#FFBD45>move</color>()</color></i>\n<i><color=#FFFFFF>codemao.<color=#FFBD45>turnLeft</color>()</color></i>\n\
+  <i><color=#FFFFFF><color=#4BC7FF>for</color> __count <color=#4BC7FF>in</color> <color=#FF7A7A>range</color>(<color=#FFBD45>6</color>):</color></i>\n\
+  \    <i><color=#FFFFFF>codemao.<color=#FFBD45>move</color>()</color></i>\n<i><color=#FFFFFF>codemao.<color=#FFBD45>turnLeft</color>()</color></i>\n\
+  <i><color=#FFFFFF><color=#4BC7FF>for</color> __count <color=#4BC7FF>in</color> <color=#FF7A7A>range</color>(<color=#FFBD45>3</color>):</color></i>\n\
+  \    <i><color=#FFFFFF>codemao.<color=#FFBD45>move</color>()</color></i>\n"
+- "<i><color=#CAB1DE>#Welcome to the world of Python</color></i>\n<i><color=#FFFFFF>codemao.<color=#FFBD45>move</color>()</color></i>\n\
+  <i><color=#FFFFFF>codemao.<color=#FFBD45>turnRight</color>()</color></i>\n<i><color=#FFFFFF>codemao.<color=#FFBD45>move</color>()</color></i>\n\
+  <i><color=#FFFFFF>codemao.<color=#FFBD45>turnLeft</color>()</color></i>\n<i><color=#FFFFFF>codemao.<color=#FFBD45>move</color>()</color></i>\n\
+  <i><color=#FFFFFF>codemao.<color=#FFBD45>turnLeft</color>()</color></i>\n<i><color=#FFFFFF><color=#4BC7FF>for</color>\
+  \ __count <color=#4BC7FF>in</color> <color=#FF7A7A>range</color>(<color=#FFBD45>2</color>):</color></i>\n\
+  \    <i><color=#FFFFFF>codemao.<color=#FFBD45>move</color>()</color></i>\n"
+- "<i><color=#CAB1DE>#Welcome to the world of Python</color></i>\n<i><color=#FFFFFF><color=#4BC7FF>for</color>\
+  \ __count <color=#4BC7FF>in</color> <color=#FF7A7A>range</color>(<color=#FFBD45>3</color>):</color></i>\n\
+  \    <i><color=#FFFFFF><color=#4BC7FF>for</color> __count <color=#4BC7FF>in</color>\
+  \ <color=#FF7A7A>range</color>(<color=#FFBD45>2</color>):</color></i>\n        <i><color=#FFFFFF>codemao.<color=#FFBD45>move</color>()</color></i>\n\
+  \        <i><color=#FFFFFF>codemao.<color=#FFBD45>move</color>()</color></i>\n \
+  \       <i><color=#FFFFFF>codemao.<color=#FFBD45>move</color>()</color></i>\n  \
+  \      <i><color=#FFFFFF>codemao.<color=#FFBD45>turnLeft</color>()</color></i>\n\
+  \    <i><color=#FFFFFF>codemao.<color=#FFBD45>turnRight</color>()</color></i>\n"
+- '<i><color=#CAB1DE>#Welcome to the world of Python</color></i>
+
+  <i><color=#FFFFFF>codemao.<color=#FFBD45>move</color>()</color></i>
+
+  <i><color=#FFFFFF>codemao.<color=#FFBD45>move</color>()</color></i>
+
+  <i><color=#FFFFFF>codemao.<color=#FFBD45>turnRight</color>()</color></i>
+
+  <i><color=#FFFFFF>codemao.<color=#FFBD45>move</color>()</color></i>
+
+  <i><color=#FFFFFF>codemao.<color=#FFBD45>turnLeft</color>()</color></i>
+
+  <i><color=#FFFFFF>codemao.<color=#FFBD45>turnLeft</color>()</color></i>
+
+  <i><color=#FFFFFF>codemao.<color=#FFBD45>move</color>()</color></i>
+
+  <i><color=#FFFFFF>codemao.<color=#FFBD45>move</color>()</color></i>
+
+  '
+- "<i><color=#CAB1DE>#Welcome to the world of Python</color></i>\n<i><color=#FFFFFF><color=#4BC7FF>for</color>\
+  \ __count <color=#4BC7FF>in</color> <color=#FF7A7A>range</color>(<color=#FFBD45>3</color>):</color></i>\n\
+  \    <i><color=#FFFFFF>codemao.<color=#FFBD45>move</color>()</color></i>\n<i><color=#FFFFFF>codemao.<color=#FFBD45>turnLeft</color>()</color></i>\n\
+  <i><color=#FFFFFF><color=#4BC7FF>for</color> __count <color=#4BC7FF>in</color> <color=#FF7A7A>range</color>(<color=#FFBD45>6</color>):</color></i>\n\
+  \    <i><color=#FFFFFF>codemao.<color=#FFBD45>move</color>()</color></i>\n<i><color=#FFFFFF>codemao.<color=#FFBD45>turnLeft</color>()</color></i>\n\
+  <i><color=#FFFFFF>codemao.<color=#FFBD45>move</color>()</color></i>\n<i><color=#FFFFFF>codemao.<color=#FFBD45>move</color>()</color></i>\n\
+  <i><color=#FFFFFF>codemao.<color=#FFBD45>move</color>()</color></i>\n"
+- "<i><color=#CAB1DE>#Welcome to the world of Python</color></i>\n<i><color=#FFFFFF><color=#4BC7FF>for</color>\
+  \ __count <color=#4BC7FF>in</color> <color=#FF7A7A>range</color>(<color=#FFBD45>3</color>):</color></i>\n\
+  \    <i><color=#FFFFFF>codemao.<color=#FFBD45>move</color>()</color></i>\n<i><color=#FFFFFF>codemao.<color=#FFBD45>turnLeft</color>()</color></i>\n\
+  <i><color=#FFFFFF><color=#4BC7FF>for</color> __count <color=#4BC7FF>in</color> <color=#FF7A7A>range</color>(<color=#FFBD45>6</color>):</color></i>\n\
+  \    <i><color=#FFFFFF>codemao.<color=#FFBD45>move</color>()</color></i>\n<i><color=#FFFFFF>codemao.<color=#FFBD45>turnLeft</color>()</color></i>\n\
+  <i><color=#FFFFFF><color=#4BC7FF>for</color> __count <color=#4BC7FF>in</color> <color=#FF7A7A>range</color>(<color=#FFBD45>3</color>):</color></i>\n\
+  \    <i><color=#FFFFFF>codemao.<color=#FFBD45>move</color>()</color></i>\n"
+- "<i><color=#CAB1DE>#Welcome to the world of Python</color></i>\n<i><color=#FFFFFF><color=#4BC7FF>for</color>\
+  \ __count <color=#4BC7FF>in</color> <color=#FF7A7A>range</color>(<color=#FFBD45>3</color>):</color></i>\n\
+  \    <i><color=#FFFFFF>codemao.<color=#FFBD45>move</color>()</color></i>\n<i><color=#FFFFFF>codemao.<color=#FFBD45>turnLeft</color>()</color></i>\n\
+  <i><color=#FFFFFF><color=#4BC7FF>for</color> __count <color=#4BC7FF>in</color> <color=#FF7A7A>range</color>(<color=#FFBD45>6</color>):</color></i>\n\
+  \    <i><color=#FFFFFF>codemao.<color=#FFBD45>move</color>()</color></i>\n<i><color=#FFFFFF>codemao.<color=#FFBD45>turnLeft</color>()</color></i>\n\
+  <i><color=#FFFFFF><color=#4BC7FF>for</color> __count <color=#4BC7FF>in</color> <color=#FF7A7A>range</color>(<color=#FFBD45>3</color>):</color></i>\n\
+  \    <i><color=#FFFFFF>codemao.<color=#FFBD45>move</color>()</color></i>\n"
+- "<i><color=#CAB1DE>#Welcome to the world of Python</color></i>\n<i><color=#FFFFFF><color=#4BC7FF>for</color>\
+  \ __count <color=#4BC7FF>in</color> <color=#FF7A7A>range</color>(<color=#FFBD45>3</color>):</color></i>\n\
+  \    <i><color=#FFFFFF>codemao.<color=#FFBD45>move</color>()</color></i>\n<i><color=#FFFFFF>codemao.<color=#FFBD45>turnLeft</color>()</color></i>\n\
+  <i><color=#FFFFFF><color=#4BC7FF>for</color> __count <color=#4BC7FF>in</color> <color=#FF7A7A>range</color>(<color=#FFBD45>3</color>):</color></i>\n\
+  \    <i><color=#FFFFFF>codemao.<color=#FFBD45>move</color>()</color></i>\n<i><color=#FFFFFF>codemao.<color=#FFBD45>turnLeft</color>()</color></i>\n\
+  <i><color=#FFFFFF><color=#4BC7FF>for</color> __count <color=#4BC7FF>in</color> <color=#FF7A7A>range</color>(<color=#FFBD45>3</color>):</color></i>\n\
+  \    <i><color=#FFFFFF>codemao.<color=#FFBD45>move</color>()</color></i>\n"
+- '<i><color=#CAB1DE>#Welcome to the world of Python</color></i>
+
+  <i><color=#FFFFFF>codemao.<color=#FFBD45>move</color>()</color></i>
+
+  <i><color=#FFFFFF>codemao.<color=#FFBD45>move</color>()</color></i>
+
+  <i><color=#FFFFFF>codemao.<color=#FFBD45>move</color>()</color></i>
+
+  <i><color=#FFFFFF>codemao.<color=#FFBD45>turnLeft</color>()</color></i>
+
+  <i><color=#FFFFFF>codemao.<color=#FFBD45>move</color>()</color></i>
+
+  <i><color=#FFFFFF>codemao.<color=#FFBD45>move</color>()</color></i>
+
+  <i><color=#FFFFFF>codemao.<color=#FFBD45>move</color>()</color></i>
+
+  '
+- '<i><color=#CAB1DE>#Welcome to the world of Python</color></i>
+
+  <i><color=#FFFFFF>codemao.<color=#FFBD45>move</color>()</color></i>
+
+  '

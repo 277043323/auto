@@ -1,0 +1,289 @@
+{
+  "uid" : "b1a8273437954620fa374b796ffaacdd",
+  "name" : "behaviors",
+  "children" : [ {
+    "name" : "批量开通课包",
+    "children" : [ {
+      "name" : "获取单位id",
+      "children" : [ {
+        "name" : "test_teacher[15813816312]",
+        "uid" : "e8e1680675a16caa",
+        "parentUid" : "cbb363b0e8f0cb50f8a9f40b5f6e419e",
+        "status" : "passed",
+        "time" : {
+          "start" : 1631762600457,
+          "stop" : 1631762600982,
+          "duration" : 525
+        },
+        "flaky" : false,
+        "parameters" : [ "15813816312" ]
+      }, {
+        "name" : "test_teacher[15622825730]",
+        "uid" : "50b50b588075e86",
+        "parentUid" : "cbb363b0e8f0cb50f8a9f40b5f6e419e",
+        "status" : "passed",
+        "time" : {
+          "start" : 1631762600993,
+          "stop" : 1631762601302,
+          "duration" : 309
+        },
+        "flaky" : false,
+        "parameters" : [ "15622825730" ]
+      }, {
+        "name" : "test_teacher[19898988883]",
+        "uid" : "a48c576167c29949",
+        "parentUid" : "cbb363b0e8f0cb50f8a9f40b5f6e419e",
+        "status" : "passed",
+        "time" : {
+          "start" : 1631762601318,
+          "stop" : 1631762601643,
+          "duration" : 325
+        },
+        "flaky" : false,
+        "parameters" : [ "19898988883" ]
+      }, {
+        "name" : "test_teacher[19989889899]",
+        "uid" : "6c60d0add1ea82c8",
+        "parentUid" : "cbb363b0e8f0cb50f8a9f40b5f6e419e",
+        "status" : "passed",
+        "time" : {
+          "start" : 1631762601656,
+          "stop" : 1631762601973,
+          "duration" : 317
+        },
+        "flaky" : false,
+        "parameters" : [ "19989889899" ]
+      } ],
+      "uid" : "cbb363b0e8f0cb50f8a9f40b5f6e419e"
+    }, {
+      "name" : "test_uint[51178]",
+      "uid" : "1aeb538d36078a8e",
+      "parentUid" : "ab96ca333dff7c36d40c72243df8cdd3",
+      "status" : "passed",
+      "time" : {
+        "start" : 1631762601981,
+        "stop" : 1631762602325,
+        "duration" : 344
+      },
+      "flaky" : false,
+      "parameters" : [ "51178" ]
+    }, {
+      "name" : "test_uint[51126]",
+      "uid" : "2e2454ecdc379d3",
+      "parentUid" : "ab96ca333dff7c36d40c72243df8cdd3",
+      "status" : "passed",
+      "time" : {
+        "start" : 1631762602351,
+        "stop" : 1631762602633,
+        "duration" : 282
+      },
+      "flaky" : false,
+      "parameters" : [ "51126" ]
+    }, {
+      "name" : "test_uint[51113]",
+      "uid" : "68ceb50dea807522",
+      "parentUid" : "ab96ca333dff7c36d40c72243df8cdd3",
+      "status" : "passed",
+      "time" : {
+        "start" : 1631762602656,
+        "stop" : 1631762602880,
+        "duration" : 224
+      },
+      "flaky" : false,
+      "parameters" : [ "51113" ]
+    }, {
+      "name" : "test_uint[51115]",
+      "uid" : "69aed7c89aef55b2",
+      "parentUid" : "ab96ca333dff7c36d40c72243df8cdd3",
+      "status" : "passed",
+      "time" : {
+        "start" : 1631762602900,
+        "stop" : 1631762603258,
+        "duration" : 358
+      },
+      "flaky" : false,
+      "parameters" : [ "51115" ]
+    }, {
+      "name" : "test_lesson[51178]",
+      "uid" : "dc93e5dbc16dcca",
+      "parentUid" : "ab96ca333dff7c36d40c72243df8cdd3",
+      "status" : "passed",
+      "time" : {
+        "start" : 1631762603283,
+        "stop" : 1631762603547,
+        "duration" : 264
+      },
+      "flaky" : false,
+      "parameters" : [ "51178" ]
+    }, {
+      "name" : "test_lesson[51126]",
+      "uid" : "8d6a2e21c789e808",
+      "parentUid" : "ab96ca333dff7c36d40c72243df8cdd3",
+      "status" : "passed",
+      "time" : {
+        "start" : 1631762603552,
+        "stop" : 1631762603828,
+        "duration" : 276
+      },
+      "flaky" : false,
+      "parameters" : [ "51126" ]
+    }, {
+      "name" : "test_lesson[51113]",
+      "uid" : "8daeaf9b98317e8f",
+      "parentUid" : "ab96ca333dff7c36d40c72243df8cdd3",
+      "status" : "passed",
+      "time" : {
+        "start" : 1631762603853,
+        "stop" : 1631762604126,
+        "duration" : 273
+      },
+      "flaky" : false,
+      "parameters" : [ "51113" ]
+    }, {
+      "name" : "test_lesson[51115]",
+      "uid" : "5b1741513f1fbbfc",
+      "parentUid" : "ab96ca333dff7c36d40c72243df8cdd3",
+      "status" : "passed",
+      "time" : {
+        "start" : 1631762604152,
+        "stop" : 1631762604479,
+        "duration" : 327
+      },
+      "flaky" : false,
+      "parameters" : [ "51115" ]
+    }, {
+      "name" : "test_select_lesson",
+      "uid" : "707612e6de3d6b5a",
+      "parentUid" : "ab96ca333dff7c36d40c72243df8cdd3",
+      "status" : "passed",
+      "time" : {
+        "start" : 1631762604503,
+        "stop" : 1631762604824,
+        "duration" : 321
+      },
+      "flaky" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "ab96ca333dff7c36d40c72243df8cdd3"
+  }, {
+    "name" : "获取栏目id",
+    "children" : [ {
+      "name" : "test_uint[51178]",
+      "uid" : "1aeb538d36078a8e",
+      "parentUid" : "bd3564bf3e0788374be2a8dd67a0d598",
+      "status" : "passed",
+      "time" : {
+        "start" : 1631762601981,
+        "stop" : 1631762602325,
+        "duration" : 344
+      },
+      "flaky" : false,
+      "parameters" : [ "51178" ]
+    }, {
+      "name" : "test_uint[51126]",
+      "uid" : "2e2454ecdc379d3",
+      "parentUid" : "bd3564bf3e0788374be2a8dd67a0d598",
+      "status" : "passed",
+      "time" : {
+        "start" : 1631762602351,
+        "stop" : 1631762602633,
+        "duration" : 282
+      },
+      "flaky" : false,
+      "parameters" : [ "51126" ]
+    }, {
+      "name" : "test_uint[51113]",
+      "uid" : "68ceb50dea807522",
+      "parentUid" : "bd3564bf3e0788374be2a8dd67a0d598",
+      "status" : "passed",
+      "time" : {
+        "start" : 1631762602656,
+        "stop" : 1631762602880,
+        "duration" : 224
+      },
+      "flaky" : false,
+      "parameters" : [ "51113" ]
+    }, {
+      "name" : "test_uint[51115]",
+      "uid" : "69aed7c89aef55b2",
+      "parentUid" : "bd3564bf3e0788374be2a8dd67a0d598",
+      "status" : "passed",
+      "time" : {
+        "start" : 1631762602900,
+        "stop" : 1631762603258,
+        "duration" : 358
+      },
+      "flaky" : false,
+      "parameters" : [ "51115" ]
+    } ],
+    "uid" : "bd3564bf3e0788374be2a8dd67a0d598"
+  }, {
+    "name" : "获取栏目下的课包",
+    "children" : [ {
+      "name" : "test_lesson[51178]",
+      "uid" : "dc93e5dbc16dcca",
+      "parentUid" : "36b080f247457c09312a953d551e7567",
+      "status" : "passed",
+      "time" : {
+        "start" : 1631762603283,
+        "stop" : 1631762603547,
+        "duration" : 264
+      },
+      "flaky" : false,
+      "parameters" : [ "51178" ]
+    }, {
+      "name" : "test_lesson[51126]",
+      "uid" : "8d6a2e21c789e808",
+      "parentUid" : "36b080f247457c09312a953d551e7567",
+      "status" : "passed",
+      "time" : {
+        "start" : 1631762603552,
+        "stop" : 1631762603828,
+        "duration" : 276
+      },
+      "flaky" : false,
+      "parameters" : [ "51126" ]
+    }, {
+      "name" : "test_lesson[51113]",
+      "uid" : "8daeaf9b98317e8f",
+      "parentUid" : "36b080f247457c09312a953d551e7567",
+      "status" : "passed",
+      "time" : {
+        "start" : 1631762603853,
+        "stop" : 1631762604126,
+        "duration" : 273
+      },
+      "flaky" : false,
+      "parameters" : [ "51113" ]
+    }, {
+      "name" : "test_lesson[51115]",
+      "uid" : "5b1741513f1fbbfc",
+      "parentUid" : "36b080f247457c09312a953d551e7567",
+      "status" : "passed",
+      "time" : {
+        "start" : 1631762604152,
+        "stop" : 1631762604479,
+        "duration" : 327
+      },
+      "flaky" : false,
+      "parameters" : [ "51115" ]
+    } ],
+    "uid" : "36b080f247457c09312a953d551e7567"
+  }, {
+    "name" : "开通课包",
+    "children" : [ {
+      "name" : "test_select_lesson",
+      "uid" : "707612e6de3d6b5a",
+      "parentUid" : "be05c80a1fc82bcb0cda775390d9daf9",
+      "status" : "passed",
+      "time" : {
+        "start" : 1631762604503,
+        "stop" : 1631762604824,
+        "duration" : 321
+      },
+      "flaky" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "be05c80a1fc82bcb0cda775390d9daf9"
+  } ]
+}

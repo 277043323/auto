@@ -1,0 +1,77 @@
+{
+  "uid" : "8d6a2e21c789e808",
+  "name" : "test_lesson[51126]",
+  "fullName" : "course_lesson.Test#test_lesson",
+  "historyId" : "03dc0a315477afc0d66c88a26ed72377",
+  "time" : {
+    "start" : 1631762603552,
+    "stop" : 1631762603828,
+    "duration" : 276
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "5dedb6f5c2e18c92",
+      "name" : "stdout",
+      "source" : "5dedb6f5c2e18c92.txt",
+      "type" : "text/plain",
+      "size" : 618
+    } ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "获取栏目下的课包"
+  }, {
+    "name" : "feature",
+    "value" : "批量开通课包"
+  }, {
+    "name" : "suite",
+    "value" : "course_lesson"
+  }, {
+    "name" : "subSuite",
+    "value" : "Test"
+  }, {
+    "name" : "host",
+    "value" : "DMKJSZLXBG0246354"
+  }, {
+    "name" : "thread",
+    "value" : "60772-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "course_lesson"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "u",
+    "value" : "51126"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "8d6a2e21c789e808.json",
+  "parameterValues" : [ "51126" ]
+}

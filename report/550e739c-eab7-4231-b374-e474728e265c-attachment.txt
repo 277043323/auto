@@ -1,0 +1,3 @@
+{'total': 1, 'page': 1, 'limit': 15, 'items': [{'id': 443807567, 'username': '', 'mobile': '156****5730', 'email': '', 'qq': '', 'country': '中国', 'province': '北京', 'city': '北京市', 'district': '东城区', 'teacherCardNumber': '2408', 'inviteCode': '', 'real_name': '你好', 'role_id': 10002, 'unit_name': '北京景山学校', 'unit_type_id': 1001, 'created_at': 1629788498, 'total_register_classes': 0, 'total_register_students': 0, 'total_activated_students': 0, 'unit_id': 51126, 'phone_encrypt': '9lFKQ0yZyOUYDQA/6eZznw=='}]}
+<class 'dict'>
+51126

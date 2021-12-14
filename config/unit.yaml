@@ -1,0 +1,27 @@
+items:
+- city: "\u5317\u4EAC\u5E02"
+  codeDesc: "\u6D4B\u8BD5\u7684"
+  codeType: 7
+  country: "\u4E2D\u56FD"
+  created_at: 1623400478
+  district: "\u4E1C\u57CE\u533A"
+  email: ''
+  id: 1447472486
+  inviteCode: '358281'
+  mobile: 199****9899
+  phone_encrypt: bSKJ7TkO/0j2uVHBge1cPw==
+  province: "\u5317\u4EAC"
+  qq: '23123'
+  real_name: Vv
+  role_id: 10002
+  teacherCardNumber: ''
+  total_activated_students: 0
+  total_register_classes: 0
+  total_register_students: 0
+  unit_id: 51115
+  unit_name: "\u56DE\u5F52\u6D4B\u8BD5"
+  unit_type_id: 1001
+  username: ''
+limit: 15
+page: 1
+total: 1

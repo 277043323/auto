@@ -1,0 +1,3 @@
+{'total': 1, 'page': 1, 'limit': 15, 'items': [{'id': 1447472486, 'username': '', 'mobile': '199****9899', 'email': '', 'qq': '23123', 'country': '中国', 'province': '北京', 'city': '北京市', 'district': '东城区', 'teacherCardNumber': '', 'inviteCode': '358281', 'codeType': 7, 'codeDesc': '测试的', 'real_name': 'Vv', 'role_id': 10002, 'unit_name': '回归测试', 'unit_type_id': 1001, 'created_at': 1623400478, 'total_register_classes': 0, 'total_register_students': 0, 'total_activated_students': 0, 'unit_id': 51115, 'phone_encrypt': 'bSKJ7TkO/0j2uVHBge1cPw=='}]}
+<class 'dict'>
+51115
