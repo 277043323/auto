@@ -81,3 +81,16 @@
 #     for k in range(2*i-1):
 #         print('*',end=' ')
 #     print()
+
+
+#在字典中添加多个数据
+
+dict={
+    "name":"你好",
+    "age":2,
+}
+dict.update(
+    grade =0,
+    sex=1
+)
+print(dict)

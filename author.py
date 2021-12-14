@@ -1,6 +1,13 @@
 from flask import Flask,render_template,request,redirect
 import jinja2
 from flask_sqlalchemy import SQLAlchemy
+
+from flask_script import Manager
+
+#发送邮件
+from flask_mail import Mail,Message
+
+from flask_migrate import Migrate
 import pymysql
 pymysql.install_as_MySQLdb()
 
@@ -12,7 +19,20 @@ class Config():
    SQLALCHEMY_TRACK_MODIFICATIONS = True
 
 app.config.from_object(Config)
+#更新数据-批量添加字典update方法
+app.config.update(
+    Debug=True,
+    Mail_SERVER='smtp.qq.com',
+    MAIL_PROT = 465,
+    MAIL_USE_TLS=True,
+    MAIL_USERNAME="1234567@qq.com",
+    MAIL_PASSWORD="123456"
+)
+mail =Mail(app)
+
 db = SQLAlchemy(app)
+manager = Manager(app)
+manager.add_command("db")
 
 #创建模型类
 class Book(db.Model):
@@ -25,6 +45,14 @@ class Book(db.Model):
 class AuthorBookForm():
     pass
 
+#发送邮件视图
+@app.route('/')
+def get_mail():
+    msg =Message("this is a test",sender="1234567@qq.com",recipients=["277043323@qq.com","36022888@qq.com"])
+    #编辑邮件内容
+    msg.body="Flask test mail"
+    mail.send(msg)
+    return "Sent Succeed"
 
 
 class Authors(db.Model):
