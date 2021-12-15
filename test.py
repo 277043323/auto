@@ -85,12 +85,21 @@
 
 #在字典中添加多个数据
 
-dict={
-    "name":"你好",
-    "age":2,
-}
-dict.update(
-    grade =0,
-    sex=1
-)
-print(dict)
+# dict={
+#     "name":"你好",
+#     "age":2,
+# }
+# dict.update(
+#     grade =0,
+#     sex=1
+# )
+# print(dict)
+
+#字符串的链接
+# r=''
+# l=[1,2,3,4,5]
+# for i in l:
+#     r+=str(i)+'='+str(l[i-1])+'&'
+# print(r)
+
+
