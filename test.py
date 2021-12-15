@@ -103,3 +103,15 @@
 # print(r)
 
 
+s ="ssss"
+# print(s.lower())
+# print(s.upper())
+# print(s[::2])
+# print(s[:2])
+# print(s[:1].replace("s", "v"))
+
+#更新字符串
+# s+='kk'
+# print(s)
+
+print(s[:4] + 'kk')

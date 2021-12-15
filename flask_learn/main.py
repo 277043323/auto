@@ -31,6 +31,33 @@ class Testcase(db.Model):
     op_case = db.Column(db.String(128))
     expect_ret=db.Column(db.String(60))
 
+#创建项目模块模板对象
+class Categ(db.Model):
+    __tablename__='tbl_categoric'
+    id = db.Column(db.Integer,primary_key=True)
+    name=db.Column(db.String(60))
+
+#设置分类列表接口
+@app.route('/catelogric',methods=["GET","POST"])
+def Catelogric():
+    list =[]
+    t= Categ.query.all()
+    for i in range(len(t)):
+        li =t[i].name
+        list.append(li)
+    return str(list)
+
+#创建分类视图函数
+@app.route("/add_catelogir",methods=["GET","POST"])
+def add_catelogir():
+    if request.method=="POST":
+        if request.data !='':
+            li = request.form.get("categ_li")
+            obj=Categ(name=li)
+            db.session.add(obj)
+            db.session.commit()
+
+    return "success"
 
 # @app.route('/',methods=["GET","POST"])
 # def index():
@@ -68,6 +95,13 @@ def AddCase():
 if __name__=='__main__':
     # db.drop_all()
     # db.create_all()
+    # case2 = Categ(name="山东考试中心")
+    # case3 =Categ(name ="济南考试")
+    # case4=Categ(name ="江西考试")
+    # # db.session.add(case2)
+    # db.session.add_all([case2,case3,case4])
+    # db.session.commit()
+
     #
     # case1 = Testcase(case_project="考试系统",case_name="考试配置",case_detail="设置所有的配置",op_case="网站名称",expect_ret="200")
     # db.session.add(case1)
