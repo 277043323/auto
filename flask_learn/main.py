@@ -47,6 +47,23 @@ def Catelogric():
         list.append(li)
     return str(list)
 
+#创建一个视图函数带参数的,分页查询
+@app.route('/catelogry')
+def Catelogry():
+    # t =Categ.query.filter(name="%考试").order_by(Categ.id.desc())
+    t = Categ.query.paginate(page=1,per_page=1,error_out=False)
+    print(t.value)
+    li = t.items
+    n =li[0].name
+    # #总的记录条数
+    # print(t.total)
+    # print(t.page)
+    # print(t.prev_num)
+    # print(t.items)
+    # print(type(t))
+    return str(n)
+
+
 #创建分类视图函数
 @app.route("/add_catelogir",methods=["GET","POST"])
 def add_catelogir():
@@ -59,9 +76,10 @@ def add_catelogir():
 
     return "success"
 
-# @app.route('/',methods=["GET","POST"])
-# def index():
-#     pass
+
+@app.route('/index',methods=["GET","POST"])
+def index():
+    return "测试数据的正确性"
 #
 # @app.route('/login',methods=["GET","POST"])
 # def login():
