@@ -1,4 +1,4 @@
-from flask import Flask,request
+from flask import Flask,request,make_response
 from flask_cors import CORS
 from flask_learn import goods,order
 from flask_sqlalchemy import SQLAlchemy
@@ -24,7 +24,7 @@ CORS(app,supports_credentials=True)
 #创建测试用例模板对象
 class Testcase(db.Model):
     __tablename__='tbl_testcase'
-    id = db.Column(db.Integer,primary_key=True)
+    id = db.Column(db.Integer,primary_key=True,index=True)
     case_project = db.Column(db.String(30))
     case_name = db.Column(db.String(30))
     case_detail = db.Column(db.String(128))
@@ -48,20 +48,23 @@ def Catelogric():
     return str(list)
 
 #创建一个视图函数带参数的,分页查询
-@app.route('/catelogry')
-def Catelogry():
+@app.route('/catelogry/<int:page>/')
+def Catelogry(page=None):
+    if page is not None:
+        page=1
     # t =Categ.query.filter(name="%考试").order_by(Categ.id.desc())
-    t = Categ.query.paginate(page=1,per_page=1,error_out=False)
-    print(t.value)
-    li = t.items
-    n =li[0].name
+        t = Categ.query.paginate(page=page,per_page=1,error_out=False)
+        # print(t.value)
+        li = t.items
+        n =li[0].name
+        print(n)
     # #总的记录条数
     # print(t.total)
     # print(t.page)
     # print(t.prev_num)
     # print(t.items)
     # print(type(t))
-    return str(n)
+        return str(n)
 
 
 #创建分类视图函数
@@ -79,6 +82,7 @@ def add_catelogir():
 
 @app.route('/index',methods=["GET","POST"])
 def index():
+
     return "测试数据的正确性"
 #
 # @app.route('/login',methods=["GET","POST"])
@@ -108,6 +112,18 @@ def AddCase():
     else:
         return "methods error",{"access-control-allow-credentials":"true","access-control-allow-origin":'http://localhost:8080',"access-control-allow-methods":"POST,GET","Content-Type":"multipart/form-data;charset=UTF-8mb4"}
 
+@app.route('/termain',methods=["GET"])
+def termain():
+    return "新建一个变量"
+
+@app.route("/testInterface",methods=["GET"])
+def testInterface():
+    #创建一个response对象
+    resp =make_response()
+    resp.headers["Access-Control-Allow-Origin"]="http://localhost:8080"
+    # resp.headers["content-type"]="application/json"
+    resp.headers["Access-Control-Allow-Credentials"]="true"
+    return resp
 
 
 if __name__=='__main__':
